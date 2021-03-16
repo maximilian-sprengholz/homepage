@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+  /* content */
+  section.content {
+    max-width: 900px;
+  }
+  /* sidebar */
+  h1.app-name {
+    text-align: left;
+    padding-left: 15px;
+    font-weight: bold;
+  }
+  .app-sub-sidebar li:before {
+    content: unset;
+    padding-right: unset;
+    float: unset;
+  }
+  div.sidebar-nav > ul > li > a {
+    font-weight: 600;
+  }
+  /* H1 */
+  h1 a span {
+    background-image: linear-gradient(to right, #fff400 0%, #fff400 100%);
+    background-position: 0 0.7em;
+    background-repeat: repeat-x;
+    background-size: 1rem 1rem;
+    transition: background-position 0.1s;
+  }
+  h1 a:hover span {
+    background-position: 0 1.1em;
+  }
+  h1 .anchor:hover {
+    text-decoration: none;
+  }
+  /* figures */
+  figure {
+    width: 100%;
+    margin: 0 0 1rem 0;
+    padding: 0;
+  }
+  figcaption {
+    width: fit-content;
+    max-width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 0.5rem;
+    opacity: 85%;
+    font-style: italic
+  }
+  p.fignote {
+    width: fit-content;
+    max-width: 80%;
+    margin: 0 auto;
+    font-size: 0.8rem;
+    line-height: 1rem;
+    opacity: 70%;
+  }
+  p.fignote::before {
+    content: "Note: ";
+  }
+  p + ul {
+     margin-top: -15px;
+  }
+  </style>
+</head>
+<body>
+  <div id="app"></div>
+
+  <script>
+    window.$docsify = {
+        loadSidebar: true,
+        subMaxLevel: 2,
+        themeColor: '#8b42b9',
+        name: 'Maximilian Sprengholz',
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
+  <!-- bash highlighting -->
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+
+</body>
+</html>
