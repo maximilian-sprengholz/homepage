@@ -18,7 +18,7 @@ __Einkommen, Miete, Ungleichheit.__ We investigate the housing situation in Germ
 
 ## Publications
 
-Sprengholz, M. (2021). Post-feminist German heartland: On the women's rights narrative of the radical-right populist AfD party in the Bundestag. _European Journal of Women's Studies, forthcoming._
+Sprengholz, M. (2021). Post-feminist German heartland: On the women's rights narrative of the radical-right populist party Alternative für Deutschland in the Bundestag. _European Journal of Women's Studies, forthcoming._
 
 Sprengholz, M., Diehl, C., Giesecke, J., & Kreyenfeld, M. (2021). From “guest workers” to EU migrants: A gendered view on the labour market integration of different arrival cohorts in Germany. _Journal of Family Research._ https://doi.org/10/ghz7nq
 
