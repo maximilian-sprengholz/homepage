@@ -12,11 +12,12 @@ Unter den Linden 6<br />
 10099 Berlin
 
 ## Current projects
-__Female Employment after Migration.__ This project is concerned with female immigrant's labor market integration in Germany. I investigate a possible double disadvantage in immigrant women's labor market outcomes stemming from their nativity and gender. In a second step, I look at how labor market disadvantages affect the poverty/deprivation incidence and severity among immigrant families. My work is part of a joint project funded by the Deutsche Forschungsgemeinschaft (DFG) between researchers at the Hertie School Berlin (Michaela Kreyenfeld, Cristina Samper), University of Bielefeld (Martin Kroh, Dorian Tsolak), University of Konstanz (Claudia Diehl, Bentley Schieckoff), and Humboldt Universität zu Berlin (Johannes Giesecke).
+__Female Employment after Migration.__ This project is concerned with female immigrant's labor market integration in Germany. I investigate intersectional disadvantages in immigrant women's labor market outcomes stemming from their nativity and gender. In a second step, I look at how labor market disadvantages affect the poverty/deprivation incidence and severity among immigrant families. My work is part of a joint project funded by the Deutsche Forschungsgemeinschaft (DFG) between researchers at the Hertie School Berlin (Michaela Kreyenfeld, Cristina Samper), University of Bielefeld (Martin Kroh, Dorian Tsolak), University of Konstanz (Claudia Diehl, Bentley Schieckoff), and Humboldt Universität zu Berlin (Johannes Giesecke).
 
-__Einkommen, Miete, Ungleichheit.__ We investigate the housing situation in German cities with a special focus on inequalities in household's supply with suitable and affordable housing. Joint work with Andrej Holm, Meret Stephan, and Valentin Regnault at Humboldt Universität zu Berlin. Project funded by the Hans-Böckler-Stiftung.
 
 ## Publications
+
+Holm, A., Regnault, V., Sprengholz, M., & Stephan, M. (2021). Die Verfestigung sozialer Wohnversorgungsprobleme: Entwicklung der Wohnverhältnisse und der sozialen Wohnversorgung von 2006 bis 2018 in 77 deutschen Großstädten. Working Paper Forschungsförderung, No. 217, Hans-Böckler-Stiftung. https://www.econstor.eu/handle/10419/234975
 
 Schieckoff, B., & Sprengholz, M. (2021). The labor market integration of immigrant women in Europe: Context, theory and evidence [WORKINGPAPER]. https://kops.uni-konstanz.de/handle/123456789/53612
 
@@ -36,16 +37,15 @@ __Verein für Socialpolitik Jahrestagung,__ Leipzig, 09/2019<br />
 __Gender Economics and the Workplace Conference,__ FAU Erlangen-Nürnberg, 11/2018<br />
 __Gender Economics Workshop,__ DIW Berlin, 10/2018<br />
 
+
 ## Education
 
 _10/2016 - 01/2019_<br />
 __MA Social Sciences,__ Humboldt-Universität zu Berlin
 
-_10/2010 - 09/2013_<br />
-__MA Public Communication,__ Friedrich-Schiller-Universität Jena
+_10/2007 - 09/2013_<br />
+__BA & MA Communication Science,__ Friedrich-Schiller-Universität Jena
 
-_10/2007 - 09/2010_<br />
-__BA Communication Science,__ Friedrich-Schiller-Universität Jena
 
 ## Work experience
 
@@ -60,27 +60,12 @@ __Working Student Department Gender Studies__, Deutsches Institut für Wirtschaf
 - Joint research with Elke Holst
 - Presentation of joint work on workshops/conferences
 
-_01/2016 - 12/2017_<br />
-__Art Director__, BUTTERBERLIN GmbH, Berlin
-- Concept, information architecture, user experience design, graphic design
-- Clients: Allianz, SPD, BMFSFJ
-
-_12/2014 - 12/2015_<br />
-__Junior Art Director__, BUTTER GmbH, Berlin
-- Concept and graphic design for online and print
-- Clients: Allianz, SPD, Berliner Sparkasse, BMAS
-
-_12/2013 - 11/2014_<br />
-__Trainee Kreation__, BUTTER GmbH, Berlin
-- Concept and graphic design for online and print
-- Clients: SPD, Allianz, Aktion Mensch, Berliner Sparkasse
+_12/2013 - 12/2017_<br />
+__Trainee, Junior Art Director, Art Director__, BUTTERBERLIN GmbH, Berlin
+- Concept, graphic design, user experience design (mostly online)
+- Clients: Allianz, SPD, BMFSFJ, BMAS, Aktion Mensch, Berliner Sparkasse
 
 _Since 03/2013_<br />
 __Freelance Graphic Designer__
 - Graphic design for online and print
 - Clients: Violence Prevention Network, Collective Leadership Institute, DGB
-
-_07/2012 - 09/2013_<br />
-__Intern/Working Student Graphic Design__, fischerAppelt tv media GmbH, Stuttgart
-- Graphic design for online and print
-- Clients: Mercedes-Benz, SWR1, SparkassenVersicherung
