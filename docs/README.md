@@ -57,8 +57,7 @@ __PhD candidate__, Humboldt-Universität zu Berlin, Department of Social Science
 _06/2017 - 01/2019_<br />
 __Working Student Department Gender Studies__, Deutsches Institut für Wirtschaftsforschung, Berlin
 - Department-specific dataset generation and management (based on SOEP data)
-- Joint research with Elke Holst
-- Presentation of joint work on workshops/conferences
+- Joint research with Elke Holst, presentations on workshops/conferences
 
 _12/2013 - 12/2017_<br />
 __Trainee, Junior Art Director, Art Director__, BUTTERBERLIN GmbH, Berlin
