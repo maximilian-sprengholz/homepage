@@ -9,7 +9,7 @@ I am a PhD student in the social sciences at Humboldt-Universität zu Berlin. My
 
 ## Current projects
 
-__Female Employment after Migration (until 31.03.2022).__ This project is concerned with immigrant women's labor market integration in Germany. I investigate intersectional disadvantages in immigrant women's labor market outcomes and potential consequences. My work is part of a joint project funded by the Deutsche Forschungsgemeinschaft (DFG) between researchers at the Hertie School Berlin (Michaela Kreyenfeld, Cristina Samper), University of Bielefeld (Martin Kroh, Dorian Tsolak), University of Konstanz (Claudia Diehl, Bentley Schieckoff), and Humboldt Universität zu Berlin (Johannes Giesecke).
+__Female Employment after Migration (ends 31.03.2022).__ This project is concerned with immigrant women's labor market integration in Germany. I investigate intersectional disadvantages in immigrant women's labor market outcomes and potential consequences. My work is part of a joint project funded by the Deutsche Forschungsgemeinschaft (DFG) between researchers at the Hertie School Berlin (Michaela Kreyenfeld, Cristina Samper), University of Bielefeld (Martin Kroh, Dorian Tsolak), University of Konstanz (Claudia Diehl, Bentley Schieckoff), and Humboldt Universität zu Berlin (Johannes Giesecke).
 
 
 ## Publications
