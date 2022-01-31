@@ -6,30 +6,29 @@ I am a PhD student in the social sciences at Humboldt-Universität zu Berlin. My
 [maximilian.sprengholz@hu-berlin.de](mailto:maximilian.sprengholz@hu-berlin.de)<br />
 [https://orcid.org/0000-0003-3829-3665](https://orcid.org/0000-0003-3829-3665)
 
-Humboldt-Universität zu Berlin<br />
-Department of Social Sciences<br />
-Unter den Linden 6<br />
-10099 Berlin
 
 ## Current projects
-__Female Employment after Migration.__ This project is concerned with female immigrant's labor market integration in Germany. I investigate intersectional disadvantages in immigrant women's labor market outcomes stemming from their nativity and gender. In a second step, I look at how labor market disadvantages affect the poverty/deprivation incidence and severity among immigrant families. My work is part of a joint project funded by the Deutsche Forschungsgemeinschaft (DFG) between researchers at the Hertie School Berlin (Michaela Kreyenfeld, Cristina Samper), University of Bielefeld (Martin Kroh, Dorian Tsolak), University of Konstanz (Claudia Diehl, Bentley Schieckoff), and Humboldt Universität zu Berlin (Johannes Giesecke).
+
+__Female Employment after Migration (until 31.03.2022).__ This project is concerned with immigrant women's labor market integration in Germany. I investigate intersectional disadvantages in immigrant women's labor market outcomes and potential consequences. My work is part of a joint project funded by the Deutsche Forschungsgemeinschaft (DFG) between researchers at the Hertie School Berlin (Michaela Kreyenfeld, Cristina Samper), University of Bielefeld (Martin Kroh, Dorian Tsolak), University of Konstanz (Claudia Diehl, Bentley Schieckoff), and Humboldt Universität zu Berlin (Johannes Giesecke).
 
 
 ## Publications
 
+Schieckoff B., Sprengholz M. (2021): The labor market integration of immigrant women in Europe: context, theory, and evidence. _SN Social Sciences, 1_, 276. https://doi.org/10/gnk8zs
+
 Holm, A., Regnault, V., Sprengholz, M., & Stephan, M. (2021). Die Verfestigung sozialer Wohnversorgungsprobleme: Entwicklung der Wohnverhältnisse und der sozialen Wohnversorgung von 2006 bis 2018 in 77 deutschen Großstädten. Working Paper Forschungsförderung, No. 217, Hans-Böckler-Stiftung. https://www.econstor.eu/handle/10419/234975
 
-Schieckoff, B., & Sprengholz, M. (2021). The labor market integration of immigrant women in Europe: Context, theory and evidence [WORKINGPAPER]. https://kops.uni-konstanz.de/handle/123456789/53612
+Sprengholz, M. (2021). Post-feminist German heartland: On the women’s rights narrative of the radical-right populist party Alternative für Deutschland in the Bundestag. _European Journal of Women’s Studies, 28._ https://doi.org/10/gjtw9t
 
-Sprengholz, M. (2021). Post-feminist German heartland: On the women’s rights narrative of the radical-right populist party Alternative für Deutschland in the Bundestag. _European Journal of Women’s Studies, 13505068211007508._ https://doi.org/10/gjtw9t
-
-Sprengholz, M., Diehl, C., Giesecke, J., & Kreyenfeld, M. (2021). From “guest workers” to EU migrants: A gendered view on the labour market integration of different arrival cohorts in Germany. _Journal of Family Research._ https://doi.org/10/ghz7nq
+Sprengholz, M., Diehl, C., Giesecke, J., & Kreyenfeld, M. (2021). From “guest workers” to EU migrants: A gendered view on the labour market integration of different arrival cohorts in Germany. _Journal of Family Research, 33._ https://doi.org/10/ghz7nq
 
 Sprengholz, M., Wieber, A., & Holst, E. (2020). Gender identity and wives’ labor market outcomes in West and East Germany between 1983 and 2016. _Socio-Economic Review, mwaa048._ https://doi.org/10/ghc8wq
 
 
 ## Conference and workshop presentations
 
+__ECSR Conference__ Online, 10/2021<br />
+__Fachkonferenz Zuwanderung und Arbeitsmarktintegration__ Online, 10/2021<br />
 __Women on the Move Workshop, DIW Berlin__ Online, 05/2021<br />
 __Deutsche Gesellschaft für Soziologie Kongress,__ Online, 09/2020<br />
 __IAFFE @ ASSA 2020,__ San Diego, 01/2020<br />
