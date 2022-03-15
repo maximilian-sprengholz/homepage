@@ -1,10 +1,12 @@
 # Maximilian Sprengholz
-_(he/him)_
+(he/him)
 
-I am a PhD student in the social sciences at Humboldt-Universität zu Berlin. My current research interests include social and political inequalities at the intersections of gender, nativity, and class.
+I am a PhD student in social sciences at Humboldt-Universität zu Berlin and part of the Berlin Graduate School of Social Sciences (BGSS). My current research interests include social and political inequalities at the intersections of gender, nativity, and class.
 
 [maximilian.sprengholz@hu-berlin.de](mailto:maximilian.sprengholz@hu-berlin.de)<br />
-[https://orcid.org/0000-0003-3829-3665](https://orcid.org/0000-0003-3829-3665)
+[https://orcid.org/0000-0003-3829-3665](https://orcid.org/0000-0003-3829-3665)<br />
+Ueckermünder Str. 1 <br />
+10439 Berlin
 
 
 ## Current projects
