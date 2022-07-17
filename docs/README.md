@@ -11,7 +11,7 @@ Ueckermünder Str. 1 <br />
 
 ## Current projects
 
-__Female Employment after Migration (ends 31.03.2022).__ This project is concerned with immigrant women's labor market integration in Germany. I investigate intersectional disadvantages in immigrant women's labor market outcomes and potential consequences. My work is part of a joint project funded by the Deutsche Forschungsgemeinschaft (DFG) between researchers at the Hertie School Berlin (Michaela Kreyenfeld, Cristina Samper), University of Bielefeld (Martin Kroh, Dorian Tsolak), University of Konstanz (Claudia Diehl, Bentley Schieckoff), and Humboldt Universität zu Berlin (Johannes Giesecke).
+__Seeing your religion - The situation of female immigrants on the German labor market: An intersectional approach.__ This project is part of the BMFSFJ funded Forschungsgruppe Diskriminierung und Rassismus (FoDiRa), which is a joint research project on discrimination and racism in Germany. Our project investigates discimination by gender, migration, and religion on the German labor market, with a particular focus on Muslim women. The project team consists of PI Zerrin Salikutluk (HU Berlin, BIM), Daniel Auer (MZES), Christian Hunkler (HU Berlin, BIM), Philipp Jaschke (IAB), and Yuliya Kosyakova (IAB).
 
 
 ## Publications
@@ -41,6 +41,9 @@ __Gender Economics Workshop,__ DIW Berlin, 10/2018<br />
 
 ## Education
 
+_Since 02/2019_<br />
+__PhD candidate__, Humboldt-Universität zu Berlin, Department of Social Sciences
+
 _10/2016 - 01/2019_<br />
 __MA Social Sciences,__ Humboldt-Universität zu Berlin
 
@@ -49,11 +52,13 @@ __BA & MA Communication Science,__ Friedrich-Schiller-Universität Jena
 
 
 ## Work experience
-
 _Since 02/2019_<br />
-__PhD candidate__, Humboldt-Universität zu Berlin, Department of Social Sciences
-- Researcher in the DFG funded project ‘Female Employment after Migration (FEM)’
-- Affiliated with the Berliner Institut für empirische Integrations- und Migrationsforschung (BIM)
+__Researcher__, Berliner Institut für empirische Integrations- und Migrationsforschung (BIM), Humboldt-Universität zu Berlin, Department of Social Sciences
+- Part of the BMFSFJ funded Forschungsgruppe Diskriminierung und Rassismus (FoDiRa) in the sub-project ‘Seeing your religion - The situation of female immigrants on the German labour market: An intersectional approach’
+
+_02/2019 - 03/2022_<br />
+__Researcher__, Humboldt-Universität zu Berlin, Department of Social Sciences
+- Part of the DFG funded project ‘Female Employment after Migration (FEM)’
 
 _06/2017 - 01/2019_<br />
 __Working Student Department Gender Studies__, Deutsches Institut für Wirtschaftsforschung, Berlin
