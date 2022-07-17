@@ -52,7 +52,7 @@ __BA & MA Communication Science,__ Friedrich-Schiller-Universität Jena
 
 
 ## Work experience
-_Since 02/2019_<br />
+_Since 05/2022_<br />
 __Researcher__, Berliner Institut für empirische Integrations- und Migrationsforschung (BIM), Humboldt-Universität zu Berlin, Department of Social Sciences
 - Part of the BMFSFJ funded Forschungsgruppe Diskriminierung und Rassismus (FoDiRa) in the sub-project ‘Seeing your religion - The situation of female immigrants on the German labour market: An intersectional approach’
 
