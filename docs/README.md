@@ -14,11 +14,15 @@ Ueckermünder Str. 1 <br />
 __Seeing your religion - The situation of female immigrants on the German labor market: An intersectional approach.__ This project is part of the BMFSFJ funded Forschungsgruppe Diskriminierung und Rassismus (FoDiRa), which is a joint research project on discrimination and racism in Germany. Our project investigates discimination by gender, migration, and religion on the German labor market, with a particular focus on Muslim women. The project team consists of PI Zerrin Salikutluk (HU Berlin, BIM), Daniel Auer (MZES), Christian Hunkler (HU Berlin, BIM), Philipp Jaschke (IAB), and Yuliya Kosyakova (IAB).
 
 
-## Publications
+## Current work and publications
+
+Sprengholz M., Hamjediers M. (2022): Intersections and commonalities - Using matching to decompose wage gaps by gender and nativity in Germany. Under review.
 
 Schieckoff B., Sprengholz M. (2021): The labor market integration of immigrant women in Europe: context, theory, and evidence. _SN Social Sciences, 1_, 276. https://doi.org/10/gnk8zs
 
-Holm, A., Regnault, V., Sprengholz, M., & Stephan, M. (2021). Die Verfestigung sozialer Wohnversorgungsprobleme: Entwicklung der Wohnverhältnisse und der sozialen Wohnversorgung von 2006 bis 2018 in 77 deutschen Großstädten. Working Paper Forschungsförderung, No. 217, Hans-Böckler-Stiftung. https://www.econstor.eu/handle/10419/234975
+Holm, A., Regnault, V., Sprengholz, M., & Stephan, M. (2021). Muster sozialer Ungleichheit der Wohnversorgung in deutschen Großstädten. Working Paper Forschungsförderung No. 222, Hans-Böckler-Stiftung. https://www.econstor.eu/handle/10419/237091
+
+Holm, A., Regnault, V., Sprengholz, M., & Stephan, M. (2021). Die Verfestigung sozialer Wohnversorgungsprobleme: Entwicklung der Wohnverhältnisse und der sozialen Wohnversorgung von 2006 bis 2018 in 77 deutschen Großstädten. Working Paper Forschungsförderung No. 217, Hans-Böckler-Stiftung. https://www.econstor.eu/handle/10419/234975
 
 Sprengholz, M. (2021). Post-feminist German heartland: On the women’s rights narrative of the radical-right populist party Alternative für Deutschland in the Bundestag. _European Journal of Women’s Studies, 28._ https://doi.org/10/gjtw9t
 
