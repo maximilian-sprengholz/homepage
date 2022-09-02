@@ -16,6 +16,8 @@ __Seeing your religion - The situation of female immigrants on the German labor 
 
 ## Current work and publications
 
+Hamjediers M., Sprengholz M. (2022): Decomposition Pitfalls: Issues of Lacking Common Support, Functional-Form Mis-Specification, and Insufficient Sample Size. Under review.
+
 Sprengholz M., Hamjediers M. (2022): Intersections and commonalities - Using matching to decompose wage gaps by gender and nativity in Germany. Under review.
 
 Schieckoff B., Sprengholz M. (2021): The labor market integration of immigrant women in Europe: context, theory, and evidence. _SN Social Sciences, 1_, 276. https://doi.org/10/gnk8zs
