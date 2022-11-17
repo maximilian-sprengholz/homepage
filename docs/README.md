@@ -18,7 +18,9 @@ __Seeing your religion - The situation of female immigrants on the German labor 
 
 Hamjediers M., Sprengholz M. (2022): Decomposition Pitfalls: Issues of Lacking Common Support, Functional-Form Mis-Specification, and Insufficient Sample Size. Under review.
 
-Sprengholz M., Hamjediers M. (2022): Intersections and commonalities - Using matching to decompose wage gaps by gender and nativity in Germany. Under review.
+Sprengholz M., Hamjediers M. (2022): Intersections and commonalities - Using matching to decompose wage gaps by gender and nativity in Germany. Forthcoming in _Work and Occupations_.
+
+Kreyenfeld, M., Sprengholz, M., & Schieckoff, B. (2022). Female Mobility. In E. J. Bussemer, F. Albrecht, D. Riethmüller, & C. Jakob (Eds.), Atlas of Migration. New Facts and Figures About People on the Move (pp. 42–43). Rosa-Luxemburg-Stiftung. https://www.rosalux.de/en/publication/id/49454
 
 Schieckoff B., Sprengholz M. (2021): The labor market integration of immigrant women in Europe: context, theory, and evidence. _SN Social Sciences, 1_, 276. https://doi.org/10/gnk8zs
 
@@ -35,8 +37,9 @@ Sprengholz, M., Wieber, A., & Holst, E. (2020). Gender identity and wives’ lab
 
 ## Conference and workshop presentations
 
-__ECSR Conference__ Online, 10/2021<br />
-__Fachkonferenz Zuwanderung und Arbeitsmarktintegration__ Online, 10/2021<br />
+__DeZIM-Tagung__, Berlin, 10/2022<br />
+__ECSR Conference__, Online, 10/2021<br />
+__Fachkonferenz Zuwanderung und Arbeitsmarktintegration__, Online, 10/2021<br />
 __Women on the Move Workshop, DIW Berlin__ Online, 05/2021<br />
 __Deutsche Gesellschaft für Soziologie Kongress,__ Online, 09/2020<br />
 __IAFFE @ ASSA 2020,__ San Diego, 01/2020<br />
