@@ -1,7 +1,7 @@
 # Maximilian Sprengholz
 (he/him)
 
-I am a PhD student in social sciences at Humboldt-Universität zu Berlin and part of the Berlin Graduate School of Social Sciences (BGSS). My current research interests include social and political inequalities at the intersections of gender, nativity, and class.
+I am a PhD student in social sciences at Humboldt-Universität zu Berlin as part of the Berlin Graduate School of Social Sciences (BGSS). I am working as a researcher at the Berliner Institut für empirische Integrations- und Migrationsforschung (BIM). My current research interests include social and political inequalities at the intersections of gender, nativity, and class.
 
 [maximilian.sprengholz@hu-berlin.de](mailto:maximilian.sprengholz@hu-berlin.de)<br />
 [https://orcid.org/0000-0003-3829-3665](https://orcid.org/0000-0003-3829-3665)<br />
@@ -16,13 +16,13 @@ __Seeing your religion - The situation of female immigrants on the German labor 
 
 ## Current work and publications
 
-Hamjediers M., Sprengholz M. (2022): Comparing the Incomparable? Issues of Lacking Common Support, Functional Form Mis-Specification, and Insuﬀicient Sample Size in Decompositions. Forthcoming in _Sociological Methodology._
+Hamjediers M., & Sprengholz M. (2022): Comparing the Incomparable? Issues of Lacking Common Support, Functional Form Mis-Specification, and Insuﬀicient Sample Size in Decompositions. Forthcoming in _Sociological Methodology._
 
 Sprengholz, M., & Hamjediers, M. (2022). Intersections and Commonalities: Using Matching to Decompose Wage Gaps by Gender and Nativity in Germany. _Work and Occupations, 07308884221141100._ https://doi.org/10.1177/07308884221141100
 
 Kreyenfeld, M., Sprengholz, M., & Schieckoff, B. (2022). Female Mobility. In E. J. Bussemer, F. Albrecht, D. Riethmüller, & C. Jakob (Eds.), Atlas of Migration. New Facts and Figures About People on the Move (pp. 42–43). Rosa-Luxemburg-Stiftung. https://www.rosalux.de/en/publication/id/49454
 
-Schieckoff B., Sprengholz M. (2021): The labor market integration of immigrant women in Europe: context, theory, and evidence. _SN Social Sciences, 1_, 276. https://doi.org/10/gnk8zs
+Schieckoff B., & Sprengholz M. (2021): The labor market integration of immigrant women in Europe: context, theory, and evidence. _SN Social Sciences, 1_, 276. https://doi.org/10/gnk8zs
 
 Holm, A., Regnault, V., Sprengholz, M., & Stephan, M. (2021). Muster sozialer Ungleichheit der Wohnversorgung in deutschen Großstädten. Working Paper Forschungsförderung No. 222, Hans-Böckler-Stiftung. https://www.econstor.eu/handle/10419/237091
 
