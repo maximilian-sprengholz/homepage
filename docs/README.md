@@ -16,9 +16,9 @@ __Seeing your religion - The situation of female immigrants on the German labor 
 
 ## Current work and publications
 
-Hamjediers M., Sprengholz M. (2022): Decomposition Pitfalls: Issues of Lacking Common Support, Functional-Form Mis-Specification, and Insufficient Sample Size. Under review.
+Hamjediers M., Sprengholz M. (2022): Comparing the Incomparable? Issues of Lacking Common Support, Functional Form Mis-Specification, and Insuﬀicient Sample Size in Decompositions. Forthcoming in _Sociological Methodology._
 
-Sprengholz, M., & Hamjediers, M. (2022). Intersections and Commonalities: Using Matching to Decompose Wage Gaps by Gender and Nativity in Germany. Work and Occupations, 07308884221141100. https://doi.org/10.1177/07308884221141100
+Sprengholz, M., & Hamjediers, M. (2022). Intersections and Commonalities: Using Matching to Decompose Wage Gaps by Gender and Nativity in Germany. _Work and Occupations, 07308884221141100._ https://doi.org/10.1177/07308884221141100
 
 Kreyenfeld, M., Sprengholz, M., & Schieckoff, B. (2022). Female Mobility. In E. J. Bussemer, F. Albrecht, D. Riethmüller, & C. Jakob (Eds.), Atlas of Migration. New Facts and Figures About People on the Move (pp. 42–43). Rosa-Luxemburg-Stiftung. https://www.rosalux.de/en/publication/id/49454
 
