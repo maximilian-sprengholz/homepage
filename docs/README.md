@@ -16,7 +16,7 @@ __Seeing your religion - The situation of female immigrants on the German labor 
 
 ## Current work and publications
 
-Hamjediers M., & Sprengholz M. (2022): Comparing the Incomparable? Issues of Lacking Common Support, Functional Form Mis-Specification, and Insuﬀicient Sample Size in Decompositions. Forthcoming in _Sociological Methodology._
+Hamjediers M., & Sprengholz M. (2023): Comparing the Incomparable? Issues of Lacking Common Support, Functional Form Mis-Specification, and Insuﬀicient Sample Size in Decompositions. Forthcoming in _Sociological Methodology._
 
 Sprengholz, M., & Hamjediers, M. (2022). Intersections and Commonalities: Using Matching to Decompose Wage Gaps by Gender and Nativity in Germany. _Work and Occupations, 07308884221141100._ https://doi.org/10.1177/07308884221141100
 
