@@ -16,23 +16,23 @@ __Seeing your religion - The situation of female immigrants on the German labor 
 
 ## Current work and publications
 
-Hamjediers M., & Sprengholz M. (2023): Comparing the Incomparable? Issues of Lacking Common Support, Functional Form Mis-Specification, and Insuﬀicient Sample Size in Decompositions. Forthcoming in _Sociological Methodology._
+Hamjediers M., & Sprengholz M. (2023): Comparing the Incomparable? Issues of Lacking Common Support, Functional Form Mis-Specification, and Insuﬀicient Sample Size in Decompositions. Forthcoming in _Sociological Methodology._ Replication Materials: https://doi.org/10.17605/OSF.IO/Y7D4Q
 
-Sprengholz, M., & Hamjediers, M. (2022). Intersections and Commonalities: Using Matching to Decompose Wage Gaps by Gender and Nativity in Germany. _Work and Occupations, 07308884221141100._ https://doi.org/10.1177/07308884221141100. Replication materials: https://zenodo.org/record/7670946
+Sprengholz, M., & Hamjediers, M. (2022). Intersections and Commonalities: Using Matching to Decompose Wage Gaps by Gender and Nativity in Germany. _Work and Occupations, 07308884221141100._ https://doi.org/10.1177/07308884221141100. Replication Materials: https://zenodo.org/record/7670946
 
 Kreyenfeld, M., Sprengholz, M., & Schieckoff, B. (2022). Female Mobility. In E. J. Bussemer, F. Albrecht, D. Riethmüller, & C. Jakob (Eds.), Atlas of Migration. New Facts and Figures About People on the Move (pp. 42–43). Rosa-Luxemburg-Stiftung. https://www.rosalux.de/en/publication/id/49454
 
 Schieckoff B., & Sprengholz M. (2021): The labor market integration of immigrant women in Europe: context, theory, and evidence. _SN Social Sciences, 1_, 276. https://doi.org/10/gnk8zs
 
-Holm, A., Regnault, V., Sprengholz, M., & Stephan, M. (2021). Muster sozialer Ungleichheit der Wohnversorgung in deutschen Großstädten. Working Paper Forschungsförderung No. 222, Hans-Böckler-Stiftung. https://www.econstor.eu/handle/10419/237091. Replication materials: https://scm.cms.hu-berlin.de/sprenmax/fem-lit-review
+Holm, A., Regnault, V., Sprengholz, M., & Stephan, M. (2021). Muster sozialer Ungleichheit der Wohnversorgung in deutschen Großstädten. Working Paper Forschungsförderung No. 222, Hans-Böckler-Stiftung. https://www.econstor.eu/handle/10419/237091. Replication Materials: https://scm.cms.hu-berlin.de/sprenmax/fem-lit-review
 
 Holm, A., Regnault, V., Sprengholz, M., & Stephan, M. (2021). Die Verfestigung sozialer Wohnversorgungsprobleme: Entwicklung der Wohnverhältnisse und der sozialen Wohnversorgung von 2006 bis 2018 in 77 deutschen Großstädten. Working Paper Forschungsförderung No. 217, Hans-Böckler-Stiftung. https://www.econstor.eu/handle/10419/234975
 
 Sprengholz, M. (2021). Post-feminist German heartland: On the women’s rights narrative of the radical-right populist party Alternative für Deutschland in the Bundestag. _European Journal of Women’s Studies, 28._ https://doi.org/10/gjtw9t
 
-Sprengholz, M., Diehl, C., Giesecke, J., & Kreyenfeld, M. (2021). From “guest workers” to EU migrants: A gendered view on the labour market integration of different arrival cohorts in Germany. _Journal of Family Research, 33._ https://doi.org/10/ghz7nq. Replication materials: https://zenodo.org/record/4362483
+Sprengholz, M., Diehl, C., Giesecke, J., & Kreyenfeld, M. (2021). From “guest workers” to EU migrants: A gendered view on the labour market integration of different arrival cohorts in Germany. _Journal of Family Research, 33._ https://doi.org/10/ghz7nq. Replication Materials: https://zenodo.org/record/4362483
 
-Sprengholz, M., Wieber, A., & Holst, E. (2020). Gender identity and wives’ labor market outcomes in West and East Germany between 1983 and 2016. _Socio-Economic Review, mwaa048._ https://doi.org/10/ghc8wq. Replication materials: https://zenodo.org/record/4058741
+Sprengholz, M., Wieber, A., & Holst, E. (2020). Gender identity and wives’ labor market outcomes in West and East Germany between 1983 and 2016. _Socio-Economic Review, mwaa048._ https://doi.org/10/ghc8wq. Replication Materials: https://zenodo.org/record/4058741
 
 
 ## Conference and workshop presentations
