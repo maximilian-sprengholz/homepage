@@ -35,6 +35,10 @@ Sprengholz, M., Diehl, C., Giesecke, J., & Kreyenfeld, M. (2021). From “guest 
 Sprengholz, M., Wieber, A., & Holst, E. (2020). Gender identity and wives’ labor market outcomes in West and East Germany between 1983 and 2016. _Socio-Economic Review, mwaa048._ https://doi.org/10/ghc8wq. Replication Materials: https://zenodo.org/record/4058741
 
 
+## Awards
+
+[2023 SER Best Article Prize](https://sase.org/news/2023-ser-best-article-prize/) for Sprengholz, M., Wieber, A., & Holst, E. (2020). Gender identity and wives’ labor market outcomes in West and East Germany between 1983 and 2016. _Socio-Economic Review, mwaa048._ https://doi.org/10/ghc8wq.
+
 ## Conference and workshop presentations
 
 __DeZIM-Tagung__, Berlin, 10/2022<br />
