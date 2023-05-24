@@ -16,7 +16,7 @@ __Seeing your religion - The situation of female immigrants on the German labor 
 
 ## Current work and publications
 
-Hamjediers M., & Sprengholz M. (2023): Comparing the Incomparable? Issues of Lacking Common Support, Functional Form Mis-Specification, and Insuﬀicient Sample Size in Decompositions. Forthcoming in _Sociological Methodology._ Replication Materials: https://doi.org/10.17605/OSF.IO/Y7D4Q
+Hamjediers, M., & Sprengholz, M. (2023). Comparing the Incomparable? Issues of Lacking Common Support, Functional-Form Misspecification, and Insufficient Sample Size in Decompositions. _Sociological Methodology, 00811750231169729._ https://doi.org/10.1177/00811750231169729. Replication Materials: https://doi.org/10.17605/OSF.IO/Y7D4Q
 
 Sprengholz, M., & Hamjediers, M. (2022). Intersections and Commonalities: Using Matching to Decompose Wage Gaps by Gender and Nativity in Germany. _Work and Occupations, 07308884221141100._ https://doi.org/10.1177/07308884221141100. Replication Materials: https://zenodo.org/record/7670946
 
@@ -34,10 +34,16 @@ Sprengholz, M., Diehl, C., Giesecke, J., & Kreyenfeld, M. (2021). From “guest 
 
 Sprengholz, M., Wieber, A., & Holst, E. (2020). Gender identity and wives’ labor market outcomes in West and East Germany between 1983 and 2016. _Socio-Economic Review, mwaa048._ https://doi.org/10/ghc8wq. Replication Materials: https://zenodo.org/record/4058741
 
+<!--
+## Software
+
+Sprengholz, M., Hamjediers M. (2023). nopo. Matching-based decomposition...https://github.com/mhamjediers/nopo_decomposition
+-->
 
 ## Awards
 
 [2023 SER Best Article Prize](https://sase.org/news/2023-ser-best-article-prize/) for Sprengholz, M., Wieber, A., & Holst, E. (2020). Gender identity and wives’ labor market outcomes in West and East Germany between 1983 and 2016. _Socio-Economic Review, mwaa048._ https://doi.org/10/ghc8wq.
+
 
 ## Conference and workshop presentations
 
