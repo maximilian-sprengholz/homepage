@@ -47,6 +47,7 @@ Sprengholz, M., Hamjediers M. (2023). nopo. Matching-based decomposition...https
 
 ## Conference and workshop presentations
 
+__Stata User Conference__ (presentation by Maik Hamjediers), Berlin, 06/2023<br />
 __DeZIM-Tagung__, Berlin, 10/2022<br />
 __ECSR Conference__, Online, 10/2021<br />
 __Fachkonferenz Zuwanderung und Arbeitsmarktintegration__, Online, 10/2021<br />
