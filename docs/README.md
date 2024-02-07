@@ -34,11 +34,11 @@ Sprengholz, M., Diehl, C., Giesecke, J., & Kreyenfeld, M. (2021). From “guest 
 
 Sprengholz, M., Wieber, A., & Holst, E. (2020). Gender identity and wives’ labor market outcomes in West and East Germany between 1983 and 2016. _Socio-Economic Review, mwaa048._ https://doi.org/10/ghc8wq. Replication Materials: https://zenodo.org/record/4058741
 
-<!--
+
 ## Software
 
-Sprengholz, M., Hamjediers M. (2023). nopo. Matching-based decomposition...https://github.com/mhamjediers/nopo_decomposition
--->
+Sprengholz, Maximilian & Maik Hamjediers, 2024. ["NOPO: Stata module to perform Nopo (2008) matching decompositions,"](https://ideas.repec.org/c/boc/bocode/s459289.html) Statistical Software Components S459289, Boston College Department of Economics. Ongoing development on GitHub: https://github.com/mhamjediers/nopo_decomposition
+
 
 ## Awards
 
@@ -47,6 +47,8 @@ Sprengholz, M., Hamjediers M. (2023). nopo. Matching-based decomposition...https
 
 ## Conference and workshop presentations
 
+__Tagung des Netzwerks für empirisch-analytische Sozialforschung zu Muslim:innen (NAFS)__, Erlangen, 11/2024<br />
+__DeZIM FG-Wednesday__, online, 11/2024<br />
 __Stata User Conference__ (presentation by Maik Hamjediers), Berlin, 06/2023<br />
 __4th Workshop on Gender and Migration__, Nuremberg, 05/2023<br />
 __DeZIM-Tagung__, Berlin, 10/2022<br />
