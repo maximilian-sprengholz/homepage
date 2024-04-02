@@ -1,7 +1,7 @@
 # Maximilian Sprengholz
 (he/him)
 
-I am a PhD student in social sciences at Humboldt-Universität zu Berlin as part of the Berlin Graduate School of Social Sciences (BGSS). I am working as a researcher at the Berliner Institut für empirische Integrations- und Migrationsforschung (BIM). My current research interests include social and political inequalities at the intersections of gender, nativity, and class.
+I am a PhD student in social sciences at Humboldt-Universität zu Berlin as part of the Berlin Graduate School of Social Sciences (BGSS). I am working as a researcher at the Berliner Institut für empirische Integrations- und Migrationsforschung (BIM). My current research interests include social, political, and regional inequalities at the intersections of gender, nativity, and class.
 
 [maximilian.sprengholz@hu-berlin.de](mailto:maximilian.sprengholz@hu-berlin.de)<br />
 [https://orcid.org/0000-0003-3829-3665](https://orcid.org/0000-0003-3829-3665)<br />
@@ -46,17 +46,18 @@ Sprengholz, Maximilian & Maik Hamjediers, 2024. ["NOPO: Stata module to perform 
 
 
 ## Conference and workshop presentations
-
-__Tagung des Netzwerks für empirisch-analytische Sozialforschung zu Muslim:innen (NAFS)__, Erlangen, 11/2024<br />
+__Spring Meeting "The Power Of Where"__, BTU Cottbus, 02/2024<br />
+__General Online Research Conference (GOR)__, RFH Cologne, 02/2024<br />
+__Tagung des Netzwerks für empirisch-analytische Sozialforschung zu Muslim:innen (NAFS)__, FAU Erlangen-Nürnberg, 11/2023<br />
 __DeZIM FG-Wednesday__, online, 11/2024<br />
-__Stata User Conference__ (presentation by Maik Hamjediers), Berlin, 06/2023<br />
-__4th Workshop on Gender and Migration__, Nuremberg, 05/2023<br />
-__DeZIM-Tagung__, Berlin, 10/2022<br />
+__Stata User Conference__ (presentation by Maik Hamjediers), HU Berlin, 06/2023<br />
+__4th Workshop on Gender and Migration__, IAB Nuremberg, 05/2023<br />
+__DeZIM-Tagung__, HU Berlin, 10/2022<br />
 __ECSR Conference__, Online, 10/2021<br />
 __Fachkonferenz Zuwanderung und Arbeitsmarktintegration__, Online, 10/2021<br />
 __Women on the Move Workshop, DIW Berlin__ Online, 05/2021<br />
 __Deutsche Gesellschaft für Soziologie Kongress,__ Online, 09/2020<br />
-__IAFFE @ ASSA 2020,__ San Diego, 01/2020<br />
+__IAFFE @ ASSA 2020,__ San Diego, USA, 01/2020<br />
 __Verein für Socialpolitik Jahrestagung,__ Leipzig, 09/2019<br />
 __Gender Economics and the Workplace Conference,__ FAU Erlangen-Nürnberg, 11/2018<br />
 __Gender Economics Workshop,__ DIW Berlin, 10/2018<br />
