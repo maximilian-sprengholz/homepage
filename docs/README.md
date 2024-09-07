@@ -16,9 +16,12 @@ __Seeing your religion - The situation of female immigrants on the German labor 
 
 ## Current work and publications
 
-Hamjediers, M., & Sprengholz, M. (2023). Comparing the Incomparable? Issues of Lacking Common Support, Functional-Form Misspecification, and Insufficient Sample Size in Decompositions. _Sociological Methodology, 00811750231169729._ https://doi.org/10.1177/00811750231169729. Replication Materials: https://doi.org/10.17605/OSF.IO/Y7D4Q
+Sprengholz, M. (mimeo). Nativity gaps in income poverty in Germany: Examining the Role of Gendered Work Intensity and Wage Patterns in Couple Households.
 
-Sprengholz, M., & Hamjediers, M. (2022). Intersections and Commonalities: Using Matching to Decompose Wage Gaps by Gender and Nativity in Germany. _Work and Occupations, 07308884221141100._ https://doi.org/10.1177/07308884221141100. Replication Materials: https://zenodo.org/record/7670946
+Sprengholz, M., & Hamjediers, M. (2024). Intersections and Commonalities: Using Matching to Decompose Wage Gaps by Gender and Nativity in Germany. _Work and Occupations, 51(2), 249–286._ https://doi.org/10/gtsqs9. Replication Materials: https://zenodo.org/record/7670946
+
+Hamjediers, M., & Sprengholz, M. (2023). Comparing the Incomparable? Issues of Lacking Common Support, Functional-Form Misspecification, and Insufficient Sample Size in Decompositions. _Sociological Methodology, 53(2), 344–365._ https://doi.org/10/gttk22.
+Replication Materials: https://doi.org/10.17605/OSF.IO/Y7D4Q
 
 Kreyenfeld, M., Sprengholz, M., & Schieckoff, B. (2022). Female Mobility. In E. J. Bussemer, F. Albrecht, D. Riethmüller, & C. Jakob (Eds.), Atlas of Migration. New Facts and Figures About People on the Move (pp. 42–43). Rosa-Luxemburg-Stiftung. https://www.rosalux.de/en/publication/id/49454
 
