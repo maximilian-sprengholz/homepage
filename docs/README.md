@@ -11,7 +11,7 @@ Ueckermünder Str. 1 <br />
 
 ## Current projects
 
-__Seeing your religion - The situation of female immigrants on the German labor market: An intersectional approach.__ This project is part of the BMFSFJ funded Forschungsgruppe Diskriminierung und Rassismus (FoDiRa), which is a joint research project on discrimination and racism in Germany. Our project investigates discimination by gender, migration, and religion on the German labor market, with a particular focus on Muslim women. The project team consists of PI Zerrin Salikutluk (HU Berlin, BIM), Daniel Auer (MZES), Christian Hunkler (HU Berlin, BIM), Philipp Jaschke (IAB), and Yuliya Kosyakova (IAB).
+__Seeing your religion - The situation of female immigrants on the German labor market: An intersectional approach.__ This project is part of the BMFSFJ funded Forschungsgruppe Diskriminierung und Rassismus (FoDiRa), which is a joint research project on discrimination and racism in Germany. Our project investigates discimination by gender, migration, and religion on the German labor market, with a particular focus on Muslim women. The project team consists of PI Zerrin Salikutluk (HU Berlin, BIM), Daniel Auer (Collegio Alberto, MZES), Christian Hunkler (HU Berlin, BIM), Philipp Jaschke (IAB), and Yuliya Kosyakova (University of Bamberg, IAB).
 
 
 ## Current work and publications
