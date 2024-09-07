@@ -16,7 +16,7 @@ __Seeing your religion - The situation of female immigrants on the German labor 
 
 ## Current work and publications
 
-Sprengholz, M. (mimeo). Nativity gaps in income poverty in Germany: Examining the Role of Gendered Work Intensity and Wage Patterns in Couple Households.
+Sprengholz, M. (mimeo). Nativity gaps in income poverty in Germany: Examining the Role of Gendered Work Intensity and Wage Patterns in Couple Households. 
 
 Sprengholz, M., & Hamjediers, M. (2024). Intersections and Commonalities: Using Matching to Decompose Wage Gaps by Gender and Nativity in Germany. _Work and Occupations, 51(2), 249–286._ https://doi.org/10/gtsqs9. Replication Materials: https://zenodo.org/record/7670946
 
