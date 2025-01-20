@@ -13,19 +13,19 @@ Ueckermünder Str. 1 <br />
 
 <table>
 <tr>
-<td>05/2022 - 12/2024</td>
+<td style="min-width: 140px">05/2022 - 12/2024</td>
 <td>Researcher, Berliner Institut für empirische Integrations- und Migrationsforschung (BIM), Humboldt-Universität zu Berlin. Part of the BMFSFJ funded Forschungsgruppe Diskriminierung und Rassismus (FoDiRa) in the sub-project 'Seeing your religion - The situation of female immigrants on the German labour market: An intersectional approach'.</td>
 </tr>
 <tr>
-<td>02/2019 - 03/2022</td>
+<td style="min-width: 140px">02/2019 - 03/2022</td>
 <td>Researcher, Humboldt-Universität zu Berlin, Department of Social Sciences. Part of the DFG funded project 'Female Employment after Migration (FEM)'.</td>
 </tr>
 <tr>
-<td>06/2017 - 01/2019</td>
+<td style="min-width: 140px">06/2017 - 01/2019</td>
 <td>Working Student Gender Studies, Deutsches Institut für Wirtschaftsforschung, Berlin</td>
 </tr>
 <tr>
-<td>12/2013 - 12/2017</td>
+<td style="min-width: 140px">12/2013 - 12/2017</td>
 <td>Trainee, Junior Art Director, Art Director, BUTTERBERLIN GmbH, Berlin</td>
 </tr>
 </table>
@@ -35,7 +35,7 @@ Ueckermünder Str. 1 <br />
 
 <table>
 <tr>
-<td>Since 02/2019</td>
+<td style="min-width: 140px">Since 02/2019</td>
 <td>
 PhD (completed except for publication), Humboldt-Universität zu Berlin, Department of Social Sciences<br />
 Thesis: <i>Intersecting Inequalities: Labor Market Outcomes by Nativity and Gender in Germany</i><br />
@@ -43,11 +43,11 @@ Supervisors: Prof. Dr. Johannes Giesecke, Prof. Dr. Zerrin Salikutluk, Prof. Dr.
 </td>
 </tr>
 <tr>
-<td>10/2016 - 01/2019</td>
+<td style="min-width: 140px">10/2016 - 01/2019</td>
 <td>MA Social Sciences, Humboldt-Universität zu Berlin</td>
 </tr>
 <tr>
-<td>10/2007 - 09/2013</td>
+<td style="min-width: 140px">10/2007 - 09/2013</td>
 <td>BA & MA Communication Science, Friedrich-Schiller-Universität Jena</td>
 </tr>
 </table>

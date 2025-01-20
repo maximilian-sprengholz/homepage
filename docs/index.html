@@ -71,8 +71,22 @@
      margin-top: -15px;
   }
   /* Tables */
-  table > thead:has(> tr > th:empty):not(:has(> tr > th:not(:empty))) {
+  /* table > thead:has(> tr > th:empty):not(:has(> tr > th:not(:empty))) {
   display: none;
+  } */
+  .markdown-section td, .markdown-section th {
+    border: 0px;
+    padding: 5px 20px 5px 0px;
+  }
+  table {
+    line-height: 1.4rem;
+  }
+
+  tbody {
+    vertical-align: top;
+  }
+  .markdown-section tr:nth-child(2n) {
+    background-color: #ffffff;
   }
   </style>
 </head>
