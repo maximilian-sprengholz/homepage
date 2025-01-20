@@ -18,7 +18,7 @@ Ueckermünder Str. 1 <br />
 </tr>
 <tr>
 <td style="min-width: 140px">02/2019 - 03/2022</td>
-<td>Researcher, Humboldt-Universität zu Berlin, Department of Social Sciences. Part of the DFG funded project 'Female Employment after Migration (FEM)'.</td>
+<td>Researcher, Humboldt-Universität zu Berlin, Department of Social Sciences. Part of the DFG funded project <i>Female Employment after Migration (FEM)</i>.</td>
 </tr>
 <tr>
 <td style="min-width: 140px">06/2017 - 01/2019</td>
