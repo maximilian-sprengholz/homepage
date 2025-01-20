@@ -14,7 +14,7 @@ Ueckermünder Str. 1 <br />
 <table>
 <tr>
 <td style="min-width: 140px">05/2022 - 12/2024</td>
-<td>Researcher, Berliner Institut für empirische Integrations- und Migrationsforschung (BIM), Humboldt-Universität zu Berlin. Part of the BMFSFJ funded Forschungsgruppe Diskriminierung und Rassismus (FoDiRa) in the sub-project 'Seeing your religion - The situation of female immigrants on the German labour market: An intersectional approach'.</td>
+<td>Researcher, Berliner Institut für empirische Integrations- und Migrationsforschung (BIM), Humboldt-Universität zu Berlin as part of the BMFSFJ-funded Forschungsgruppe Diskriminierung und Rassismus (FoDiRa) in the sub-project <i>Seeing your religion. The situation of female immigrants on the German labour market</i>.</td>
 </tr>
 <tr>
 <td style="min-width: 140px">02/2019 - 03/2022</td>
@@ -128,7 +128,7 @@ Sprengholz, Maximilian & Maik Hamjediers, 2024. ["NOPO: Stata module to perform 
 
 <table>
 <tr>
-<td>2019-2020</td>
+<td>2019 - 2020</td>
 <td>
 Master's course "Sozialwissenschaftliche Armutsforschung", Humboldt-Universität zu Berlin
 </td>
