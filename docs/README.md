@@ -126,6 +126,8 @@ See also my GitLab page for public source code: https://scm.cms.hu-berlin.de/use
 
 [2023 SER Best Article Prize](https://sase.org/news/2023-ser-best-article-prize/) for Sprengholz, M., Wieber, A., & Holst, E. (2020). Gender identity and wives’ labor market outcomes in West and East Germany between 1983 and 2016. _Socio-Economic Review, mwaa048._ https://doi.org/10/ghc8wq.
 
+2021 Best Prototype Award, Open Access Summer School, for [this prototype](https://observablehq.com/@sansan/open-access-time-tracker). See also https://github.com/maximilian-sprengholz/visoa.
+
 ## Teaching Experience
 
 <table>
