@@ -9,6 +9,50 @@ Ueckermünder Str. 1 <br />
 10439 Berlin
 
 
+## Professional experience
+
+<table>
+<tr>
+<td>05/2022 - 12/2024</td>
+<td>Researcher, Berliner Institut für empirische Integrations- und Migrationsforschung (BIM), Humboldt-Universität zu Berlin. Part of the BMFSFJ funded Forschungsgruppe Diskriminierung und Rassismus (FoDiRa) in the sub-project 'Seeing your religion - The situation of female immigrants on the German labour market: An intersectional approach'.</td>
+</tr>
+<tr>
+<td>02/2019 - 03/2022</td>
+<td>Researcher, Humboldt-Universität zu Berlin, Department of Social Sciences. Part of the DFG funded project 'Female Employment after Migration (FEM)'.</td>
+</tr>
+<tr>
+<td>06/2017 - 01/2019</td>
+<td>Working Student Gender Studies, Deutsches Institut für Wirtschaftsforschung, Berlin</td>
+</tr>
+<tr>
+<td>12/2013 - 12/2017</td>
+<td>Trainee, Junior Art Director, Art Director, BUTTERBERLIN GmbH, Berlin</td>
+</tr>
+</table>
+
+
+## Education
+
+<table>
+<tr>
+<td>Since 02/2019</td>
+<td>
+PhD (completed except for publication), Humboldt-Universität zu Berlin, Department of Social Sciences<br />
+Thesis: <i>Intersecting Inequalities: Labor Market Outcomes by Nativity and Gender in Germany</i><br />
+Supervisors: Prof. Dr. Johannes Giesecke, Prof. Dr. Zerrin Salikutluk, Prof. Dr. Martin Kroh
+</td>
+</tr>
+<tr>
+<td>10/2016 - 01/2019</td>
+<td>MA Social Sciences, Humboldt-Universität zu Berlin</td>
+</tr>
+<tr>
+<td>10/2007 - 09/2013</td>
+<td>BA & MA Communication Science, Friedrich-Schiller-Universität Jena</td>
+</tr>
+</table>
+
+
 ## Publications
 
 ### Peer Reviewed 
@@ -38,70 +82,65 @@ Holm, A., Regnault, V., Sprengholz, M., & Stephan, M. (2021). Muster sozialer Un
 
 Holm, A., Regnault, V., Sprengholz, M., & Stephan, M. (2021). Die Verfestigung sozialer Wohnversorgungsprobleme: Entwicklung der Wohnverhältnisse und der sozialen Wohnversorgung von 2006 bis 2018 in 77 deutschen Großstädten. Working Paper Forschungsförderung No. 217, Hans-Böckler-Stiftung. https://www.econstor.eu/handle/10419/234975
 
-
-## Software
+### Software
 
 Sprengholz, Maximilian & Maik Hamjediers, 2024. ["NOPO: Stata module to perform Nopo (2008) matching decompositions,"](https://ideas.repec.org/c/boc/bocode/s459289.html) Statistical Software Components S459289, Boston College Department of Economics. Ongoing development on GitHub: https://github.com/mhamjediers/nopo_decomposition
 
+
+## Conference and workshop presentations
+
+<table>
+<tr>
+<td>2024</td>
+<td>Spring Meeting "The Power Of Where"; General Online Research Conference</td>
+</tr>
+<tr>
+<td>2023</td>
+<td>Tagung des Netzwerks für empirisch-analytische Sozialforschung zu Muslim:innen (NAFS); DeZIM FG-Wednesday; Stata User Conference; 4th Workshop on Gender and Migration</td>
+</tr>
+<tr>
+<td>2022</td>
+<td>DeZIM-Tagung</td>
+</tr>
+<tr>
+<td>2021</td>
+<td>ECSR Conference; Fachkonferenz Zuwanderung und Arbeitsmarktintegration; Women on the Move Workshop</td>
+</tr>
+<tr>
+<td>2020</td>
+<td>DGS Kongress; IAFFE @ ASSA 2020</td>
+</tr>
+<tr>
+<td>2019</td>
+<td>Verein für Socialpolitik Jahrestagung</td>
+</tr>
+<tr>
+<td>2018</td>
+<td>Gender Economics and the Workplace Conference; Gender Economics Workshop</td>
+</tr>
+</table>
 
 ## Awards
 
 [2023 SER Best Article Prize](https://sase.org/news/2023-ser-best-article-prize/) for Sprengholz, M., Wieber, A., & Holst, E. (2020). Gender identity and wives’ labor market outcomes in West and East Germany between 1983 and 2016. _Socio-Economic Review, mwaa048._ https://doi.org/10/ghc8wq.
 
+## Teaching Experience
 
-## Conference and workshop presentations
+<table>
+<tr>
+<td>2019-2020</td>
+<td>
+Master's course "Sozialwissenschaftliche Armutsforschung", Humboldt-Universität zu Berlin
+</td>
+</tr>
+</table>
 
-     | 
------|--------------------------------------------------------------------------------------------
-2024 | Spring Meeting "The Power Of Where"; General Online Research Conference
-2023 | Tagung des Netzwerks für empirisch-analytische Sozialforschung zu Muslim:innen (NAFS); DeZIM FG-Wednesday
+## Language Proficiency
 
-
-__Stata User Conference__ (presentation by Maik Hamjediers), HU Berlin, 06/2023<br />
-__4th Workshop on Gender and Migration__, IAB Nuremberg, 05/2023<br />
-__DeZIM-Tagung__, HU Berlin, 10/2022<br />
-__ECSR Conference__, Online, 10/2021<br />
-__Fachkonferenz Zuwanderung und Arbeitsmarktintegration__, Online, 10/2021<br />
-__Women on the Move Workshop, DIW Berlin__ Online, 05/2021<br />
-__Deutsche Gesellschaft für Soziologie Kongress,__ Online, 09/2020<br />
-__IAFFE @ ASSA 2020,__ San Diego, USA, 01/2020<br />
-__Verein für Socialpolitik Jahrestagung,__ Leipzig, 09/2019<br />
-__Gender Economics and the Workplace Conference,__ FAU Erlangen-Nürnberg, 11/2018<br />
-__Gender Economics Workshop,__ DIW Berlin, 10/2018<br />
+<table>
+<tr><td>German</td><td>Native language</td></tr>
+<tr><td>English</td><td>Fluent</td></tr>
+</table>
 
 
-## Education
 
-_Since 02/2019_<br />
-__PhD candidate__, Humboldt-Universität zu Berlin, Department of Social Sciences
-
-_10/2016 - 01/2019_<br />
-__MA Social Sciences,__ Humboldt-Universität zu Berlin
-
-_10/2007 - 09/2013_<br />
-__BA & MA Communication Science,__ Friedrich-Schiller-Universität Jena
-
-
-## Work experience
-_05/2022 - 12/2024_<br />
-__Researcher__, Berliner Institut für empirische Integrations- und Migrationsforschung (BIM), Humboldt-Universität zu Berlin, Department of Social Sciences
-- Part of the BMFSFJ funded Forschungsgruppe Diskriminierung und Rassismus (FoDiRa) in the sub-project ‘Seeing your religion - The situation of female immigrants on the German labour market: An intersectional approach’
-
-_02/2019 - 03/2022_<br />
-__Researcher__, Humboldt-Universität zu Berlin, Department of Social Sciences
-- Part of the DFG funded project ‘Female Employment after Migration (FEM)’
-
-_06/2017 - 01/2019_<br />
-__Working Student Department Gender Studies__, Deutsches Institut für Wirtschaftsforschung, Berlin
-- Department-specific dataset generation and management (based on SOEP data)
-- Joint research with Elke Holst, presentations on workshops/conferences
-
-_12/2013 - 12/2017_<br />
-__Trainee, Junior Art Director, Art Director__, BUTTERBERLIN GmbH, Berlin
-- Concept, graphic design, user experience design (mostly online)
-- Clients: Allianz, SPD, BMFSFJ, BMAS, Aktion Mensch, Berliner Sparkasse
-
-_Since 03/2013_<br />
-__Freelance Graphic Designer__
-- Graphic design for online and print
-- Clients: Violence Prevention Network, Collective Leadership Institute, DGB
