@@ -3,7 +3,7 @@
 
 I am a PhD student in social sciences at Humboldt-Universität zu Berlin as part of the Berlin Graduate School of Social Sciences (BGSS). My current research interests include social, political, and regional inequalities at the intersections of gender, nativity, and class.
 
-[maximilian.sprengholz@hu-berlin.de](mailto:maximilian.sprengholz@hu-berlin.de)<br />
+[maximilian.sprengholz@protonmail.com](mailto:maximilian.sprengholz@protonmail.com)<br />
 [https://orcid.org/0000-0003-3829-3665](https://orcid.org/0000-0003-3829-3665)<br />
 Ueckermünder Str. 1 <br />
 10439 Berlin
