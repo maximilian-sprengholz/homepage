@@ -86,7 +86,7 @@ Holm, A., Regnault, V., Sprengholz, M., & Stephan, M. (2021). Die Verfestigung s
 
 Sprengholz, Maximilian & Maik Hamjediers, 2024. ["NOPO: Stata module to perform Nopo (2008) matching decompositions,"](https://ideas.repec.org/c/boc/bocode/s459289.html) Statistical Software Components S459289, Boston College Department of Economics. Ongoing development on GitHub: https://github.com/mhamjediers/nopo_decomposition
 
-See also my GitLab page for public source code: https://scm.cms.hu-berlin.de/sprenmax/
+See also my GitLab page for public source code: https://scm.cms.hu-berlin.de/users/sprenmax/projects
 
 
 ## Conference and workshop presentations
