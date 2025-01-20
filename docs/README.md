@@ -1,17 +1,12 @@
 # Maximilian Sprengholz
 (he/him)
 
-I am a PhD student in social sciences at Humboldt-Universität zu Berlin as part of the Berlin Graduate School of Social Sciences (BGSS). I am working as a researcher at the Berliner Institut für empirische Integrations- und Migrationsforschung (BIM). My current research interests include social, political, and regional inequalities at the intersections of gender, nativity, and class.
+I am a PhD student in social sciences at Humboldt-Universität zu Berlin as part of the Berlin Graduate School of Social Sciences (BGSS). My current research interests include social, political, and regional inequalities at the intersections of gender, nativity, and class.
 
 [maximilian.sprengholz@hu-berlin.de](mailto:maximilian.sprengholz@hu-berlin.de)<br />
 [https://orcid.org/0000-0003-3829-3665](https://orcid.org/0000-0003-3829-3665)<br />
 Ueckermünder Str. 1 <br />
 10439 Berlin
-
-
-## Current projects
-
-__Seeing your religion - The situation of female immigrants on the German labor market: An intersectional approach.__ This project is part of the BMFSFJ funded Forschungsgruppe Diskriminierung und Rassismus (FoDiRa), which is a joint research project on discrimination and racism in Germany. Our project investigates discimination by gender, migration, and religion on the German labor market, with a particular focus on Muslim women. The project team consists of PI Zerrin Salikutluk (HU Berlin, BIM), Daniel Auer (Collegio Alberto, MZES), Christian Hunkler (HU Berlin, BIM), Philipp Jaschke (IAB), and Yuliya Kosyakova (University of Bamberg, IAB).
 
 
 ## Current work and publications
@@ -79,7 +74,7 @@ __BA & MA Communication Science,__ Friedrich-Schiller-Universität Jena
 
 
 ## Work experience
-_Since 05/2022_<br />
+_05/2022 - 12/2024_<br />
 __Researcher__, Berliner Institut für empirische Integrations- und Migrationsforschung (BIM), Humboldt-Universität zu Berlin, Department of Social Sciences
 - Part of the BMFSFJ funded Forschungsgruppe Diskriminierung und Rassismus (FoDiRa) in the sub-project ‘Seeing your religion - The situation of female immigrants on the German labour market: An intersectional approach’
 
