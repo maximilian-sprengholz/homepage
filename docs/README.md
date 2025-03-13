@@ -11,7 +11,7 @@ Ueckermünder Str. 1 <br />
 
 ## Professional experience
 
-<table class="cv2">
+<table class="cv-fixed">
 <tr>
 <td>May 2022 - Dec 2024</td>
 <td>Researcher, Berliner Institut für empirische Integrations- und Migrationsforschung (BIM), Humboldt-Universität zu Berlin as part of the BMFSFJ-funded Forschungsgruppe Diskriminierung und Rassismus (FoDiRa) in the sub-project <i>Seeing your religion. The situation of female immigrants on the German labour market</i>.</td>
@@ -33,7 +33,7 @@ Ueckermünder Str. 1 <br />
 
 ## Education
 
-<table class="cv2">
+<table class="cv-fixed">
 <tr>
 <td>Since Feb 2019</td>
 <td>
@@ -91,7 +91,7 @@ See also my GitHub page for public source code: https://github.com/maximilian-sp
 
 ## Conference and workshop presentations
 
-<table class="cv1">
+<table class="cv">
 <tr>
 <td>2024</td>
 <td>Spring Meeting "The Power Of Where"; General Online Research Conference</td>
@@ -124,11 +124,11 @@ See also my GitHub page for public source code: https://github.com/maximilian-sp
 
 ## Awards
 
-<table class="cv1">
+<table class="cv">
 <tr>
 <td>2023</td>
 <td>
-<a href="https://sase.org/news/2023-ser-best-article-prize/">SER Best Article Prize</a> for Sprengholz, M., Wieber, A., & Holst, E. (2020). Gender identity and wives’ labor market outcomes in West and East Germany between 1983 and 2016. <i>Socio-Economic Review, mwaa048.</i><a href="https://doi.org/10/ghc8wq">https://doi.org/10/ghc8wq</a>.
+<a href="https://sase.org/news/2023-ser-best-article-prize/">SER Best Article Prize</a> for Sprengholz, M., Wieber, A., & Holst, E. (2020). Gender identity and wives’ labor market outcomes in West and East Germany between 1983 and 2016. <i>Socio-Economic Review, mwaa048.</i> <a href="https://doi.org/10/ghc8wq">https://doi.org/10/ghc8wq</a>.
 </td>
 </tr>
 <tr>
@@ -141,7 +141,7 @@ Best Prototype Award Open Access Summer School, Humboldt-Universität zu Berlin,
 
 ## Teaching Experience
 
-<table class="cv2">
+<table class="cv">
 <tr>
 <td>2019 - 2020</td>
 <td>
@@ -158,7 +158,7 @@ Workshop räumliche Kontextdaten, DeZIM Institut, <a href="https://github.com/ma
 
 ## Language Proficiency
 
-<table class="cv1">
+<table class="cv">
 <tr><td>German</td><td>Native language</td></tr>
 <tr><td>English</td><td>Fluent</td></tr>
 </table>
