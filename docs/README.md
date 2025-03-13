@@ -1,7 +1,7 @@
 # Maximilian Sprengholz
 (he/him)
 
-I am a PhD student in social sciences at Humboldt-Universität zu Berlin as part of the Berlin Graduate School of Social Sciences (BGSS). My current research interests include social, political, and regional inequalities at the intersections of gender, nativity, and class.
+I am a PhD student in Social Sciences at Humboldt-Universität zu Berlin as part of the Berlin Graduate School of Social Sciences (BGSS). My current research interests include social, political, and regional inequalities at the intersections of gender, nativity, and class.
 
 [maximilian.sprengholz@protonmail.com](mailto:maximilian.sprengholz@protonmail.com)<br />
 [https://orcid.org/0000-0003-3829-3665](https://orcid.org/0000-0003-3829-3665)<br />
@@ -11,21 +11,21 @@ Ueckermünder Str. 1 <br />
 
 ## Professional experience
 
-<table>
+<table class="cv2">
 <tr>
-<td style="min-width: 140px">05/2022 - 12/2024</td>
+<td>May 2022 - Dec 2024</td>
 <td>Researcher, Berliner Institut für empirische Integrations- und Migrationsforschung (BIM), Humboldt-Universität zu Berlin as part of the BMFSFJ-funded Forschungsgruppe Diskriminierung und Rassismus (FoDiRa) in the sub-project <i>Seeing your religion. The situation of female immigrants on the German labour market</i>.</td>
 </tr>
 <tr>
-<td style="min-width: 140px">02/2019 - 03/2022</td>
-<td>Researcher, Humboldt-Universität zu Berlin, Department of Social Sciences. Part of the DFG funded project <i>Female Employment after Migration (FEM)</i>.</td>
+<td>Feb 2019 - Mar 2022</td>
+<td>Researcher, Humboldt-Universität zu Berlin, Department of Social Sciences. Part of the DFG-funded project <i>Female Employment after Migration (FEM)</i>.</td>
 </tr>
 <tr>
-<td style="min-width: 140px">06/2017 - 01/2019</td>
+<td>Jun 2017 - Jan 2019</td>
 <td>Working Student Gender Studies, Deutsches Institut für Wirtschaftsforschung, Berlin</td>
 </tr>
 <tr>
-<td style="min-width: 140px">12/2013 - 12/2017</td>
+<td>Dec 2013 - Dec 2017</td>
 <td>Trainee, Junior Art Director, Art Director, BUTTERBERLIN GmbH, Berlin</td>
 </tr>
 </table>
@@ -33,9 +33,9 @@ Ueckermünder Str. 1 <br />
 
 ## Education
 
-<table>
+<table class="cv2">
 <tr>
-<td style="min-width: 140px">Since 02/2019</td>
+<td>Since Feb 2019</td>
 <td>
 PhD (completed except for publication), Humboldt-Universität zu Berlin, Department of Social Sciences<br />
 Thesis: <i>Intersecting Inequalities: Labor Market Outcomes by Nativity and Gender in Germany</i><br />
@@ -43,11 +43,11 @@ Supervisors: Prof. Dr. Johannes Giesecke, Prof. Dr. Zerrin Salikutluk, Prof. Dr.
 </td>
 </tr>
 <tr>
-<td style="min-width: 140px">10/2016 - 01/2019</td>
+<td>Oct 2016 - Jan 2019</td>
 <td>MA Social Sciences, Humboldt-Universität zu Berlin</td>
 </tr>
 <tr>
-<td style="min-width: 140px">10/2007 - 09/2013</td>
+<td>Oct 2007 - Sep 2013</td>
 <td>BA & MA Communication Science, Friedrich-Schiller-Universität Jena</td>
 </tr>
 </table>
@@ -86,12 +86,12 @@ Holm, A., Regnault, V., Sprengholz, M., & Stephan, M. (2021). Die Verfestigung s
 
 Sprengholz, Maximilian & Maik Hamjediers, 2024. ["NOPO: Stata module to perform Nopo (2008) matching decompositions,"](https://ideas.repec.org/c/boc/bocode/s459289.html) Statistical Software Components S459289, Boston College Department of Economics. Ongoing development on GitHub: https://github.com/mhamjediers/nopo_decomposition
 
-See also my GitLab page for public source code: https://scm.cms.hu-berlin.de/users/sprenmax/projects
+See also my GitHub page for public source code: https://github.com/maximilian-sprengholz
 
 
 ## Conference and workshop presentations
 
-<table>
+<table class="cv1">
 <tr>
 <td>2024</td>
 <td>Spring Meeting "The Power Of Where"; General Online Research Conference</td>
@@ -124,13 +124,24 @@ See also my GitLab page for public source code: https://scm.cms.hu-berlin.de/use
 
 ## Awards
 
-[2023 SER Best Article Prize](https://sase.org/news/2023-ser-best-article-prize/) for Sprengholz, M., Wieber, A., & Holst, E. (2020). Gender identity and wives’ labor market outcomes in West and East Germany between 1983 and 2016. _Socio-Economic Review, mwaa048._ https://doi.org/10/ghc8wq.
-
-2021 Best Prototype Award, Open Access Summer School, for [this prototype](https://observablehq.com/@sansan/open-access-time-tracker). See also https://github.com/maximilian-sprengholz/visoa.
+<table class="cv1">
+<tr>
+<td>2023</td>
+<td>
+<a href="https://sase.org/news/2023-ser-best-article-prize/">SER Best Article Prize</a> for Sprengholz, M., Wieber, A., & Holst, E. (2020). Gender identity and wives’ labor market outcomes in West and East Germany between 1983 and 2016. <i>Socio-Economic Review, mwaa048.</i><a href="https://doi.org/10/ghc8wq">https://doi.org/10/ghc8wq</a>.
+</td>
+</tr>
+<tr>
+<td>2021</td>
+<td>
+Best Prototype Award Open Access Summer School, Humboldt-Universität zu Berlin, for <a href="https://observablehq.com/@sansan/open-access-time-tracker">this prototype</a>. See also <a href="https://github.com/maximilian-sprengholz/visoa">https://github.com/maximilian-sprengholz/visoa</a>.
+</td>
+</tr>
+</table>
 
 ## Teaching Experience
 
-<table>
+<table class="cv2">
 <tr>
 <td>2019 - 2020</td>
 <td>
@@ -140,14 +151,14 @@ Master's course "Sozialwissenschaftliche Armutsforschung", Humboldt-Universität
 <tr>
 <td>2024</td>
 <td>
-Workshop räumliche Kontextdaten, DeZIM Institut, https://github.com/maximilian-sprengholz/contextdata
+Workshop räumliche Kontextdaten, DeZIM Institut, <a href="https://github.com/maximilian-sprengholz/contextdata">GitHub repository</a>
 </td>
 </tr>
 </table>
 
 ## Language Proficiency
 
-<table>
+<table class="cv1">
 <tr><td>German</td><td>Native language</td></tr>
 <tr><td>English</td><td>Fluent</td></tr>
 </table>
