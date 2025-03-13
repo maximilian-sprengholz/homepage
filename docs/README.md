@@ -137,6 +137,12 @@ See also my GitLab page for public source code: https://scm.cms.hu-berlin.de/use
 Master's course "Sozialwissenschaftliche Armutsforschung", Humboldt-Universität zu Berlin
 </td>
 </tr>
+<tr>
+<td>2024</td>
+<td>
+Workshop räumliche Kontextdaten, DeZIM Institut, https://github.com/maximilian-sprengholz/contextdata
+</td>
+</tr>
 </table>
 
 ## Language Proficiency
