@@ -94,11 +94,11 @@ See also my GitHub page for public source code: https://github.com/maximilian-sp
 <table class="cv">
 <tr>
 <td>2024</td>
-<td>Spring Meeting "The Power Of Where"; General Online Research Conference</td>
+<td>Spring Meeting "The Power Of Where", General Online Research Conference</td>
 </tr>
 <tr>
 <td>2023</td>
-<td>Tagung des Netzwerks für empirisch-analytische Sozialforschung zu Muslim:innen (NAFS); DeZIM FG-Wednesday; Stata User Conference; 4th Workshop on Gender and Migration</td>
+<td>Tagung des Netzwerks für empirisch-analytische Sozialforschung zu Muslim:innen (NAFS), DeZIM FG-Wednesday, Stata User Conference, 4th Workshop on Gender and Migration</td>
 </tr>
 <tr>
 <td>2022</td>
@@ -106,11 +106,11 @@ See also my GitHub page for public source code: https://github.com/maximilian-sp
 </tr>
 <tr>
 <td>2021</td>
-<td>ECSR Conference; Fachkonferenz Zuwanderung und Arbeitsmarktintegration; Women on the Move Workshop</td>
+<td>ECSR Conference, Fachkonferenz Zuwanderung und Arbeitsmarktintegration, Women on the Move Workshop</td>
 </tr>
 <tr>
 <td>2020</td>
-<td>DGS Kongress; IAFFE @ ASSA 2020</td>
+<td>DGS Kongress, IAFFE @ ASSA 2020</td>
 </tr>
 <tr>
 <td>2019</td>
@@ -118,7 +118,7 @@ See also my GitHub page for public source code: https://github.com/maximilian-sp
 </tr>
 <tr>
 <td>2018</td>
-<td>Gender Economics and the Workplace Conference; Gender Economics Workshop</td>
+<td>Gender Economics and the Workplace Conference, Gender Economics Workshop</td>
 </tr>
 </table>
 
