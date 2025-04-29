@@ -13,6 +13,9 @@
   section.content {
     max-width: 1000px;
   }
+  article.markdown-section {
+    padding: 0 0 20px 0;
+  }
   /* sidebar */
   h1.app-name {
     text-align: left;
@@ -26,6 +29,14 @@
   }
   div.sidebar-nav > ul > li > a {
     font-weight: 600;
+    font-size: 1rem;
+  }
+  .sidebar ul li ul {
+    padding: 0;
+    margin: 0;
+  }
+  .sidebar a:hover {
+    text-decoration: none;
   }
   /* H1 */
   h1 a span {
@@ -38,7 +49,7 @@
   h1 a:hover span {
     background-position: 0 1.1em;
   }
-  h1 .anchor:hover {
+  h1.anchor:hover {
     text-decoration: none;
   }
   /* figures */
@@ -106,6 +117,20 @@
   table.cv-fixed tr td:first-child {
     min-width: 155px;
     font-weight: 600;
+  }
+
+  /* small viewports: stack table cells */
+  @media only screen and (max-width: 600px) {
+    .markdown-section tr {
+      display: block;
+      margin-top: 0.7rem
+    }
+    .markdown-section tr:first-child {
+      margin-top: 0rem
+    }
+    .markdown-section td {
+      display: table-row;
+    }
   }
 
   </style>

@@ -9,7 +9,7 @@ Ueckermünder Str. 1 <br />
 10439 Berlin
 
 
-## Professional experience
+## Professional Experience
 
 <table class="cv-fixed">
 <tr>
@@ -89,7 +89,7 @@ Sprengholz, Maximilian & Maik Hamjediers, 2024. ["NOPO: Stata module to perform 
 See also my GitHub page for public source code: https://github.com/maximilian-sprengholz
 
 
-## Conference and workshop presentations
+## Presentations
 
 <table class="cv">
 <tr>
