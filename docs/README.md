@@ -38,7 +38,7 @@ Ueckermünder Str. 1 <br />
 <td>Feb 2019 - Jun 2025</td>
 <td>
 PhD in Sociology, Humboldt-Universität zu Berlin<br />
-Thesis: <i><a href="https://doi.org/10.18452/33642">Intersecting Inequalities: Labor Market Outcomes by Nativity and Gender in Germany</a></i><br />
+Thesis: <a href="https://doi.org/10.18452/33642">Intersecting Inequalities: Labor Market Outcomes by Nativity and Gender in Germany</a><br />
 Supervisor: Prof. Dr. Johannes Giesecke
 </td>
 </tr>
@@ -155,6 +155,11 @@ Workshop räumliche Kontextdaten, DeZIM Institut, <a href="https://github.com/ma
 </td>
 </tr>
 </table>
+
+## Further Academic Activity
+
+- Organization of and participation in the panel discussion "Doing Quantitative Intersectional Research" (Nov 2023, BIM) with Niels Spierings, Christiane Gross, Zerrin Salikutluk, and Lena Keller (among others)
+- Reviewing for Socio-Economic Review, European Sociological Review, Journal of Ethnic and Migration Studies, Demographic Research, Population Research and Policy Review, Frontiers in Human Dynamics
 
 ## Language Proficiency
 
