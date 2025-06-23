@@ -174,7 +174,7 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 <tr>
   <td>2023</td>
   <td>
-  Workshop "Green Open Access", Humboldt-Universität zu Berlin
+  Workshop "Publishing Open Access", Humboldt-Universität zu Berlin
   </td>
 </tr>
 <tr>
