@@ -1,7 +1,7 @@
 # Maximilian Sprengholz
 (he/him)
 
-I recently earned my Ph.D. in the social sciences from Humboldt University and the Berlin Graduate School of Social Sciences (BGSS). My current research interests include social, political, and regional inequalities at the intersection of gender, nativity, and class.
+I recently earned my PhD in Sociology from Humboldt University and the Berlin Graduate School of Social Sciences (BGSS). My current research interests include social, political, and regional inequalities at the intersection of gender, nativity, and class.
 
 [maximilian.sprengholz@protonmail.com](mailto:maximilian.sprengholz@protonmail.com)<br />
 [https://orcid.org/0000-0003-3829-3665](https://orcid.org/0000-0003-3829-3665)<br />
@@ -35,10 +35,10 @@ Ueckermünder Str. 1 <br />
 
 <table class="cv-fixed">
 <tr>
-<td>Feb 2019 - June 2025</td>
+<td>Feb 2019 - Jun 2025</td>
 <td>
 PhD in Sociology, Humboldt-Universität zu Berlin<br />
-Thesis: <i>[Intersecting Inequalities: Labor Market Outcomes by Nativity and Gender in Germany](https://doi.org/10.18452/33642)</i><br />
+Thesis: <i><a href="https://doi.org/10.18452/33642">Intersecting Inequalities: Labor Market Outcomes by Nativity and Gender in Germany</a></i><br />
 Supervisor: Prof. Dr. Johannes Giesecke
 </td>
 </tr>
