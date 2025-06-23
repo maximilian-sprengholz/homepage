@@ -13,20 +13,20 @@ Ueckermünder Str. 1 <br />
 
 <table class="cv-fixed">
 <tr>
-<td>May 2022 - Dec 2024</td>
-<td>Researcher, Berliner Institut für empirische Integrations- und Migrationsforschung (BIM), Humboldt-Universität zu Berlin as part of the BMFSFJ-funded Forschungsgruppe Diskriminierung und Rassismus (FoDiRa) in the sub-project <i>Seeing your religion. The situation of female immigrants on the German labour market</i>.</td>
+  <td>May 2022 - Dec 2024</td>
+  <td>Researcher, Berliner Institut für empirische Integrations- und Migrationsforschung (BIM), Humboldt-Universität zu Berlin as part of the BMFSFJ-funded Forschungsgruppe Diskriminierung und Rassismus (FoDiRa) in the sub-project <i>Seeing your religion. The situation of female immigrants on the German labour market</i>.</td>
 </tr>
 <tr>
-<td>Feb 2019 - Mar 2022</td>
-<td>Researcher, Humboldt-Universität zu Berlin, Department of Social Sciences. Part of the DFG-funded project <i>Female Employment after Migration (FEM)</i>.</td>
+  <td>Feb 2019 - Mar 2022</td>
+  <td>Researcher, Humboldt-Universität zu Berlin, Department of Social Sciences. Part of the DFG-funded project <i>Female Employment after Migration (FEM)</i>.</td>
 </tr>
 <tr>
-<td>Jun 2017 - Jan 2019</td>
-<td>Working Student Gender Studies, Deutsches Institut für Wirtschaftsforschung, Berlin</td>
+  <td>Jun 2017 - Jan 2019</td>
+  <td>Working Student Gender Studies, Deutsches Institut für Wirtschaftsforschung, Berlin</td>
 </tr>
 <tr>
-<td>Dec 2013 - Dec 2017</td>
-<td>Trainee, Junior Art Director, Art Director, BUTTERBERLIN GmbH (Kommunikations- und Werbeagentur), Berlin</td>
+  <td>Dec 2013 - Dec 2017</td>
+  <td>Trainee, Junior Art Director, Art Director, BUTTERBERLIN GmbH (Kommunikations- und Werbeagentur), Berlin</td>
 </tr>
 </table>
 
@@ -35,20 +35,20 @@ Ueckermünder Str. 1 <br />
 
 <table class="cv-fixed">
 <tr>
-<td>Feb 2019 - Jun 2025</td>
-<td>
-PhD in Sociology, Humboldt-Universität zu Berlin<br />
-Thesis: <a href="https://doi.org/10.18452/33642">Intersecting Inequalities: Labor Market Outcomes by Nativity and Gender in Germany</a><br />
-Supervisor: Prof. Dr. Johannes Giesecke
-</td>
+  <td>Feb 2019 - Jun 2025</td>
+  <td>
+  PhD in Sociology, Humboldt-Universität zu Berlin<br />
+  Thesis: <a href="https://doi.org/10.18452/33642">Intersecting Inequalities: Labor Market Outcomes by Nativity and Gender in Germany</a><br />
+  Supervisor: Prof. Dr. Johannes Giesecke
+  </td>
 </tr>
 <tr>
-<td>Oct 2016 - Jan 2019</td>
-<td>MA in Social Sciences, Humboldt-Universität zu Berlin</td>
+  <td>Oct 2016 - Jan 2019</td>
+  <td>MA in Social Sciences, Humboldt-Universität zu Berlin</td>
 </tr>
 <tr>
-<td>Oct 2007 - Sep 2013</td>
-<td>BA & MA in Communication Science, Friedrich-Schiller-Universität Jena</td>
+  <td>Oct 2007 - Sep 2013</td>
+  <td>BA & MA in Communication Science, Friedrich-Schiller-Universität Jena</td>
 </tr>
 </table>
 
@@ -93,32 +93,32 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 
 <table class="cv">
 <tr>
-<td>2024</td>
-<td>Spring Meeting "The Power Of Where", General Online Research Conference</td>
+  <td>2024</td>
+  <td>Spring Meeting "The Power Of Where", General Online Research Conference</td>
 </tr>
 <tr>
-<td>2023</td>
-<td>Tagung des Netzwerks für empirisch-analytische Sozialforschung zu Muslim:innen (NAFS), DeZIM FG-Wednesday, Stata User Conference, 4th Workshop on Gender and Migration</td>
+  <td>2023</td>
+  <td>Tagung des Netzwerks für empirisch-analytische Sozialforschung zu Muslim:innen (NAFS), DeZIM FG-Wednesday, Stata User Conference, 4th Workshop on Gender and Migration</td>
 </tr>
 <tr>
-<td>2022</td>
-<td>DeZIM-Tagung</td>
+  <td>2022</td>
+  <td>DeZIM-Tagung</td>
 </tr>
 <tr>
-<td>2021</td>
-<td>ECSR Conference, Fachkonferenz Zuwanderung und Arbeitsmarktintegration, Women on the Move Workshop</td>
+  <td>2021</td>
+  <td>ECSR Conference, Fachkonferenz Zuwanderung und Arbeitsmarktintegration, Women on the Move Workshop</td>
 </tr>
 <tr>
-<td>2020</td>
-<td>DGS Kongress, IAFFE @ ASSA 2020</td>
+  <td>2020</td>
+  <td>DGS Kongress, IAFFE @ ASSA 2020</td>
 </tr>
 <tr>
-<td>2019</td>
-<td>Verein für Socialpolitik Jahrestagung</td>
+  <td>2019</td>
+  <td>Verein für Socialpolitik Jahrestagung</td>
 </tr>
 <tr>
-<td>2018</td>
-<td>Gender Economics and the Workplace Conference, Gender Economics Workshop</td>
+  <td>2018</td>
+  <td>Gender Economics and the Workplace Conference, Gender Economics Workshop</td>
 </tr>
 </table>
 
@@ -126,16 +126,16 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 
 <table class="cv">
 <tr>
-<td>2023</td>
-<td>
-<a href="https://sase.org/news/2023-ser-best-article-prize/">SER Best Article Prize</a> for Sprengholz, M., Wieber, A., & Holst, E. (2020). Gender identity and wives’ labor market outcomes in West and East Germany between 1983 and 2016. <i>Socio-Economic Review, mwaa048.</i> <a href="https://doi.org/10/ghc8wq">https://doi.org/10/ghc8wq</a>.
-</td>
+  <td>2023</td>
+  <td>
+  <a href="https://sase.org/news/2023-ser-best-article-prize/">SER Best Article Prize</a> for Sprengholz, M., Wieber, A., & Holst, E. (2020). Gender identity and wives’ labor market outcomes in West and East Germany between 1983 and 2016. <i>Socio-Economic Review, mwaa048.</i> <a href="https://doi.org/10/ghc8wq">https://doi.org/10/ghc8wq</a>.
+  </td>
 </tr>
 <tr>
-<td>2021</td>
-<td>
-Best Prototype Award Open Access Summer School, Humboldt-Universität zu Berlin, for <a href="https://observablehq.com/@sansan/open-access-time-tracker">this prototype</a>. See also <a href="https://github.com/maximilian-sprengholz/visoa">https://github.com/maximilian-sprengholz/visoa</a>.
-</td>
+  <td>2021</td>
+  <td>
+  Best Prototype Award Open Access Summer School, Humboldt-Universität zu Berlin, for <a href="https://observablehq.com/@sansan/open-access-time-tracker">this prototype</a>. See also <a href="https://github.com/maximilian-sprengholz/visoa">https://github.com/maximilian-sprengholz/visoa</a>.
+  </td>
 </tr>
 </table>
 
@@ -143,16 +143,16 @@ Best Prototype Award Open Access Summer School, Humboldt-Universität zu Berlin,
 
 <table class="cv">
 <tr>
-<td>2019 - 2020</td>
-<td>
-Master's course "Sozialwissenschaftliche Armutsforschung", Humboldt-Universität zu Berlin
-</td>
+  <td>2019 - 2020</td>
+  <td>
+  Master's course "Sozialwissenschaftliche Armutsforschung", Humboldt-Universität zu Berlin
+  </td>
 </tr>
 <tr>
-<td>2024</td>
-<td>
-Workshop räumliche Kontextdaten, DeZIM Institut, <a href="https://github.com/maximilian-sprengholz/contextdata">GitHub repository</a>
-</td>
+  <td>2024</td>
+  <td>
+  Workshop räumliche Kontextdaten, DeZIM Institut, <a href="https://github.com/maximilian-sprengholz/contextdata">GitHub repository</a>
+  </td>
 </tr>
 </table>
 
@@ -160,6 +160,44 @@ Workshop räumliche Kontextdaten, DeZIM Institut, <a href="https://github.com/ma
 
 - Organization of and participation in the panel discussion "Doing Quantitative Intersectional Research" (Nov 2023, BIM) with Niels Spierings, Christiane Gross, Zerrin Salikutluk, and Lena Keller (among others)
 - Reviewing for Socio-Economic Review, European Sociological Review, Journal of Ethnic and Migration Studies, Demographic Research, Population Research and Policy Review, Frontiers in Human Dynamics
+- Participation in the "Next Grand Challenge" of the Berlin University Alliance, 2024
+
+## Further Training
+
+<table class="cv">
+<tr>
+  <td>2023</td>
+  <td>
+  BERD Academy course "Microsimulation and Machine Learning with Official Statistics", online
+  </td>
+</tr>
+<tr>
+  <td>2023</td>
+  <td>
+  Workshop "Green Open Access", Humboldt-Universität zu Berlin
+  </td>
+</tr>
+<tr>
+  <td>2023</td>
+  <td>
+  Workshop "Acedemic Editors' Perspective: Writing and Publishing in Peer-Reviews Journals", Humboldt-Universität zu Berlin
+  </td>
+</tr>
+<tr>
+  <td>2021</td>
+  <td>
+  DYNAMICS workshops "Survey Experiments" and "Online Experiments", online
+  </td>
+</tr>
+<tr>
+  <td>2021</td>
+  <td>
+  Summer School "Visualizing Open Access", Humboldt-Universität zu Berlin
+  </td>
+</tr>
+</table>
+
+- 
 
 ## Language Proficiency
 
