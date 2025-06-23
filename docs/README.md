@@ -1,7 +1,7 @@
 # Maximilian Sprengholz
 (he/him)
 
-I am a PhD student in Social Sciences at Humboldt-Universität zu Berlin as part of the Berlin Graduate School of Social Sciences (BGSS). My current research interests include social, political, and regional inequalities at the intersections of gender, nativity, and class.
+I recently earned my Ph.D. in the social sciences from Humboldt University and the Berlin Graduate School of Social Sciences (BGSS). My current research interests include social, political, and regional inequalities at the intersection of gender, nativity, and class.
 
 [maximilian.sprengholz@protonmail.com](mailto:maximilian.sprengholz@protonmail.com)<br />
 [https://orcid.org/0000-0003-3829-3665](https://orcid.org/0000-0003-3829-3665)<br />
@@ -26,7 +26,7 @@ Ueckermünder Str. 1 <br />
 </tr>
 <tr>
 <td>Dec 2013 - Dec 2017</td>
-<td>Trainee, Junior Art Director, Art Director, BUTTERBERLIN GmbH, Berlin</td>
+<td>Trainee, Junior Art Director, Art Director, BUTTERBERLIN GmbH (Kommunikations- und Werbeagentur), Berlin</td>
 </tr>
 </table>
 
@@ -35,20 +35,20 @@ Ueckermünder Str. 1 <br />
 
 <table class="cv-fixed">
 <tr>
-<td>Since Feb 2019</td>
+<td>Feb 2019 - June 2025</td>
 <td>
-PhD (completed except for publication), Humboldt-Universität zu Berlin, Department of Social Sciences<br />
-Thesis: <i>Intersecting Inequalities: Labor Market Outcomes by Nativity and Gender in Germany</i><br />
-Supervisors: Prof. Dr. Johannes Giesecke, Prof. Dr. Zerrin Salikutluk, Prof. Dr. Martin Kroh
+PhD in Sociology, Humboldt-Universität zu Berlin<br />
+Thesis: <i>[Intersecting Inequalities: Labor Market Outcomes by Nativity and Gender in Germany](https://doi.org/10.18452/33642)</i><br />
+Supervisor: Prof. Dr. Johannes Giesecke
 </td>
 </tr>
 <tr>
 <td>Oct 2016 - Jan 2019</td>
-<td>MA Social Sciences, Humboldt-Universität zu Berlin</td>
+<td>MA in Social Sciences, Humboldt-Universität zu Berlin</td>
 </tr>
 <tr>
 <td>Oct 2007 - Sep 2013</td>
-<td>BA & MA Communication Science, Friedrich-Schiller-Universität Jena</td>
+<td>BA & MA in Communication Science, Friedrich-Schiller-Universität Jena</td>
 </tr>
 </table>
 
@@ -72,7 +72,7 @@ Sprengholz, M., Wieber, A., & Holst, E. (2020). Gender identity and wives’ lab
 
 ### Working Papers
 
-Sprengholz, M. (mimeo). Nativity gaps in income poverty in Germany: Examining the Role of Gendered Work Intensity and Wage Patterns in Couple Households.
+Sprengholz, M. (2025). Nativity gaps in income poverty in Germany: Examining the Role of Gendered Work Intensity and Wage Patterns in Couple Households. https://doi.org/10.18452/33642. Replication Materials: https://osf.io/f6qa5/
 
 ### Other
 
@@ -86,7 +86,7 @@ Holm, A., Regnault, V., Sprengholz, M., & Stephan, M. (2021). Die Verfestigung s
 
 Sprengholz, Maximilian & Maik Hamjediers, 2024. ["NOPO: Stata module to perform Nopo (2008) matching decompositions,"](https://ideas.repec.org/c/boc/bocode/s459289.html) Statistical Software Components S459289, Boston College Department of Economics. Ongoing development on GitHub: https://github.com/mhamjediers/nopo_decomposition
 
-See also my GitHub page for public source code: https://github.com/maximilian-sprengholz
+See also my GitHub page for public code: https://github.com/maximilian-sprengholz
 
 
 ## Presentations
