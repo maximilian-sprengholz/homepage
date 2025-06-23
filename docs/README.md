@@ -33,9 +33,9 @@ Ueckermünder Str. 1 <br />
 
 ## Education
 
-<table class="cv-fixed">
+<table class="cv">
 <tr>
-  <td>Feb 2019 - Jun 2025</td>
+  <td>2019 - 2025</td>
   <td>
   PhD in Sociology, Humboldt-Universität zu Berlin<br />
   Thesis: <a href="https://doi.org/10.18452/33642">Intersecting Inequalities: Labor Market Outcomes by Nativity and Gender in Germany</a><br />
@@ -43,11 +43,11 @@ Ueckermünder Str. 1 <br />
   </td>
 </tr>
 <tr>
-  <td>Oct 2016 - Jan 2019</td>
+  <td>2016 - 2019</td>
   <td>MA in Social Sciences, Humboldt-Universität zu Berlin</td>
 </tr>
 <tr>
-  <td>Oct 2007 - Sep 2013</td>
+  <td>2007 - 2013</td>
   <td>BA & MA in Communication Science, Friedrich-Schiller-Universität Jena</td>
 </tr>
 </table>
@@ -196,8 +196,6 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
   </td>
 </tr>
 </table>
-
-- 
 
 ## Language Proficiency
 
