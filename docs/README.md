@@ -14,11 +14,11 @@ Ueckermünder Str. 1 <br />
 <table class="cv-fixed">
 <tr>
   <td>May 2022 - Dec 2024</td>
-  <td>Researcher, Berliner Institut für empirische Integrations- und Migrationsforschung (BIM), Humboldt-Universität zu Berlin as part of the BMFSFJ-funded Forschungsgruppe Diskriminierung und Rassismus (FoDiRa) in the sub-project <i>Seeing your religion. The situation of female immigrants on the German labour market</i>.</td>
+  <td>Researcher, Berliner Institut für empirische Integrations- und Migrationsforschung (BIM), Humboldt-Universität zu Berlin as part of the BMFSFJ-funded Forschungsgruppe Diskriminierung und Rassismus (FoDiRa) in the sub-project <i>Seeing your religion. The situation of female immigrants on the German labour market</i></td>
 </tr>
 <tr>
   <td>Feb 2019 - Mar 2022</td>
-  <td>Researcher, Humboldt-Universität zu Berlin, Department of Social Sciences. Part of the DFG-funded project <i>Female Employment after Migration (FEM)</i>.</td>
+  <td>Researcher, Humboldt-Universität zu Berlin, Department of Social Sciences. Part of the DFG-funded project <i>Female Employment after Migration (FEM)</i></td>
 </tr>
 <tr>
   <td>Jun 2017 - Jan 2019</td>
