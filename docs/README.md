@@ -158,9 +158,23 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 
 ## Further Academic Activity
 
-- Organization of and participation in the panel discussion "Doing Quantitative Intersectional Research" (Nov 2023, BIM) with Niels Spierings, Christiane Gross, Zerrin Salikutluk, and Lena Keller (among others)
-- Reviewing for Socio-Economic Review, European Sociological Review, Journal of Ethnic and Migration Studies, Demographic Research, Population Research and Policy Review, Frontiers in Human Dynamics
-- Participation in the "Next Grand Challenge" of the Berlin University Alliance, 2024
+<table class="cv">
+<tr>
+  <td colspan="2">Reviewing for Socio-Economic Review, European Sociological Review, Journal of Ethnic and Migration Studies, Demographic Research, Population Research and Policy Review, Frontiers in Human Dynamics</td>
+</tr>
+<tr>
+  <td>2023</td>
+  <td>
+  Organization of and participation in the panel discussion "Doing Quantitative Intersectional Research" with Niels Spierings, Christiane Gross, Zerrin Salikutluk, and Lena Keller (among others), BIM
+  </td>
+</tr>
+<tr>
+  <td>2023</td>
+  <td>
+  Participation in the "Next Grand Challenge" Forum of the Berlin University Alliance, Berlin
+  </td>
+</tr>
+</table>
 
 ## Further Training
 
