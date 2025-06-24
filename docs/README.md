@@ -143,15 +143,21 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 
 <table class="cv">
 <tr>
-  <td>2019 - 2020</td>
+  <td>2024</td>
   <td>
-  Master's course "Sozialwissenschaftliche Armutsforschung", Humboldt-Universität zu Berlin
+  Workshop räumliche Kontextdaten, DeZIM Institut, <a href="https://github.com/maximilian-sprengholz/contextdata">GitHub repository</a>
   </td>
 </tr>
 <tr>
   <td>2024</td>
   <td>
-  Workshop räumliche Kontextdaten, DeZIM Institut, <a href="https://github.com/maximilian-sprengholz/contextdata">GitHub repository</a>
+  Workshop [Replizierbarkeit und Kollaboration im Forschungsalltag](https://github.com/maximilian-sprengholz/repro-collab), Humboldt-Universität zu Berlin, Colloquium Empirische Methoden der Sozialforschung
+  </td>
+</tr>
+<tr>
+  <td>2019 - 2020</td>
+  <td>
+  Master's course "Sozialwissenschaftliche Armutsforschung", Humboldt-Universität zu Berlin
   </td>
 </tr>
 </table>
