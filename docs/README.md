@@ -160,7 +160,8 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 
 <table class="cv">
 <tr>
-  <td colspan="2">Reviewing for Socio-Economic Review, European Sociological Review, Journal of Ethnic and Migration Studies, Demographic Research, Population Research and Policy Review, Frontiers in Human Dynamics</td>
+  <td></td>
+  <td>Reviewing for Socio-Economic Review, European Sociological Review, Journal of Ethnic and Migration Studies, Demographic Research, Population Research and Policy Review, Frontiers in Human Dynamics</td>
 </tr>
 <tr>
   <td>2023</td>
