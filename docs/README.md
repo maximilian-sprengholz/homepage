@@ -145,13 +145,13 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 <tr>
   <td>2024</td>
   <td>
-  Workshop räumliche Kontextdaten, DeZIM Institut, <a href="https://github.com/maximilian-sprengholz/contextdata">GitHub repository</a>
+  Workshop "Räumliche Kontextdaten", DeZIM Institut, <a href="https://github.com/maximilian-sprengholz/contextdata">GitHub</a>
   </td>
 </tr>
 <tr>
   <td>2023</td>
   <td>
-  Workshop <a href="https://github.com/maximilian-sprengholz/repro-collab">Replizierbarkeit und Kollaboration im Forschungsalltag</a>, Humboldt-Universität zu Berlin, Colloquium Empirische Methoden der Sozialforschung
+  Workshop "Replizierbarkeit und Kollaboration im Forschungsalltag", Humboldt-Universität zu Berlin, Colloquium Empirische Methoden der Sozialforschung, <a href="https://github.com/maximilian-sprengholz/repro-collab">GitHub</a>
   </td>
 </tr>
 <tr>
