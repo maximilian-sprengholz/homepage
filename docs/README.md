@@ -26,7 +26,7 @@ Ueckermünder Str. 1 <br />
 </tr>
 <tr>
   <td>Dec 2013 - Dec 2017</td>
-  <td>Trainee, Junior Art Director, Art Director, BUTTERBERLIN GmbH (Kommunikations- und Werbeagentur), Berlin</td>
+  <td>Trainee, Junior Art Director, Art Director, BUTTERBERLIN GmbH (Creative and communication agency), Berlin</td>
 </tr>
 </table>
 
