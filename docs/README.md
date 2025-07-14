@@ -181,6 +181,12 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
   Participation in the "Next Grand Challenge" Forum of the Berlin University Alliance, Berlin
   </td>
 </tr>
+<tr>
+  <td>2018</td>
+  <td>
+  Student member of the search committee for the S-Professorship "Social Science Research Methods (Focus on SUrvey Methodology)", Humboldt-Universität zu Berlin
+  </td>
+</tr>
 </table>
 
 ## Further Training
