@@ -1,7 +1,7 @@
 # Maximilian Sprengholz
 (he/him)
 
-I recently earned my PhD in Sociology from Humboldt University and the Berlin Graduate School of Social Sciences (BGSS). My current research interests include social, political, and regional inequalities at the intersection of gender, nativity, and class.
+I recently earned my PhD in Sociology from Humboldt-Universität zu Berlin and the Berlin Graduate School of Social Sciences (BGSS). My research focused on labor market inequalities at the intersection of nativity and gender. Currently, I am seeking a position in research infrastructure and processes related to open science rather than research itself.
 
 [maximilian.sprengholz@protonmail.com](mailto:maximilian.sprengholz@protonmail.com)<br />
 [https://orcid.org/0000-0003-3829-3665](https://orcid.org/0000-0003-3829-3665)<br />
