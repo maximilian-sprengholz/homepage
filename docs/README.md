@@ -22,7 +22,7 @@ Ueckermünder Str. 1 <br />
 </tr>
 <tr>
   <td>Jun 2017 - Jan 2019</td>
-  <td>Working Student Gender Studies, Deutsches Institut für Wirtschaftsforschung, Berlin</td>
+  <td>Working Student Gender Economics, Deutsches Institut für Wirtschaftsforschung, Berlin</td>
 </tr>
 <tr>
   <td>Dec 2013 - Dec 2017</td>
@@ -150,6 +150,12 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 </tr>
 <tr>
   <td>2023</td>
+  <td>
+  Workshop "Replizierbarkeit und Kollaboration im Forschungsalltag", Humboldt-Universität zu Berlin, Colloquium Empirische Methoden der Sozialforschung, <a href="https://github.com/maximilian-sprengholz/repro-collab">GitHub</a>
+  </td>
+</tr>
+<tr>
+  <td>2021</td>
   <td>
   Workshop "Replizierbarkeit und Kollaboration im Forschungsalltag", Humboldt-Universität zu Berlin, Colloquium Empirische Methoden der Sozialforschung, <a href="https://github.com/maximilian-sprengholz/repro-collab">GitHub</a>
   </td>
