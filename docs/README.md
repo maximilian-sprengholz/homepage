@@ -56,7 +56,7 @@ Ueckermünder Str. 1 <br />
 
 ## Publications
 
-### Peer Reviewed 
+### Peer-Reviewed 
 
 Sprengholz, M., & Hamjediers, M. (2024). Intersections and Commonalities: Using Matching to Decompose Wage Gaps by Gender and Nativity in Germany. _Work and Occupations, 51(2), 249–286._ https://doi.org/10/gtsqs9. Replication Materials: https://zenodo.org/record/7670946
 
@@ -191,7 +191,7 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 <tr>
   <td>2018</td>
   <td>
-  Student member of the search committee for the S-Professorship "Social Science Research Methods (Focus on SUrvey Methodology)", Humboldt-Universität zu Berlin
+  Student member of the search committee for the S-Professorship "Social Science Research Methods (Focus on Survey Methodology)", Humboldt-Universität zu Berlin
   </td>
 </tr>
 </table>
