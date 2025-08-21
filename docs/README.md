@@ -158,7 +158,7 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 <tr>
   <td>2021</td>
   <td>
-  Workshop "Replizierbarkeit und Kollaboration im Forschungsalltag", Humboldt-Universität zu Berlin, Colloquium Empirische Methoden der Sozialforschung, <a href="https://github.com/maximilian-sprengholz/repro-collab">GitHub</a>
+  Workshop "Replizierbarkeit und Kollaboration im Forschungsalltag", Humboldt-Universität zu Berlin, Colloquium Empirische Methoden der Sozialforschung
   </td>
 </tr>
 <tr>
