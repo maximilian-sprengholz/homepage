@@ -5,6 +5,7 @@ I recently earned my PhD in Sociology from Humboldt-Universität zu Berlin and t
 
 [maximilian.sprengholz@protonmail.com](mailto:maximilian.sprengholz@protonmail.com)<br />
 [https://orcid.org/0000-0003-3829-3665](https://orcid.org/0000-0003-3829-3665)<br />
+[https://github.com/maximilian-sprengholz](https://github.com/maximilian-sprengholz)<br />
 Ueckermünder Str. 1 <br />
 10439 Berlin
 
