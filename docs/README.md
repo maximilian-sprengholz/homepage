@@ -89,7 +89,7 @@ Holm, A., Regnault, V., Sprengholz, M., & Stephan, M. (2021). Die Verfestigung s
 
 ### Data
 
-Sprengholz, M.. Salikutluk, Z., Kosyakova, Y., Jaschke, P., Hunkler, C., Auer, D.(forthcoming 2026): Seeing Your Religion Survey. DeZIM.fdz.
+Sprengholz, M.. Salikutluk, Z., Kosyakova, Y., Jaschke, P., Hunkler, C., Auer, D. (forthcoming 2026): Seeing Your Religion Survey. DeZIM.fdz.
 
 ### Software
 
