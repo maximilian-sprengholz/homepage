@@ -73,7 +73,7 @@ Sprengholz, M., Wieber, A., & Holst, E. (2020). Gender identity and wives’ lab
 
 ### Working Papers
 
-Sprengholz, M. (2025). Nativity gaps in income poverty in Germany: Examining the role of gendered work intensity and wage patterns in couple households. https://doi.org/10.18452/33642. Replication Materials: https://osf.io/f6qa5/
+Sprengholz, M. (2025). Nativity gaps in income poverty in Germany: Examining the role of gendered work intensity and wage patterns in couple households. OSF. https://doi.org/10.31219/osf.io/ms6jn_v1. Replication Materials: https://osf.io/f6qa5/
 
 Jaschke, P., Sprengholz, M., Auer, D., Hunkler, C., Kosyakova, Y., & Salikutluk, Z. (2025). Seeing Your Religion: Diskriminierung und Rassismus gegenüber Muslim*innen auf dem deutschen Arbeitsmarkt. BIM News, 8. https://doi.org/10.18452/33069
 
