@@ -73,15 +73,23 @@ Sprengholz, M., Wieber, A., & Holst, E. (2020). Gender identity and wives’ lab
 
 ### Working Papers
 
-Sprengholz, M. (2025). Nativity gaps in income poverty in Germany: Examining the Role of Gendered Work Intensity and Wage Patterns in Couple Households. https://doi.org/10.18452/33642. Replication Materials: https://osf.io/f6qa5/
+Sprengholz, M. (2025). Nativity gaps in income poverty in Germany: Examining the role of gendered work intensity and wage patterns in couple households. https://doi.org/10.18452/33642. Replication Materials: https://osf.io/f6qa5/
+
+Jaschke, P., Sprengholz, M., Auer, D., Hunkler, C., Kosyakova, Y., & Salikutluk, Z. (2025). Seeing Your Religion: Diskriminierung und Rassismus gegenüber Muslim*innen auf dem deutschen Arbeitsmarkt. BIM News, 8. https://doi.org/10.18452/33069
+
+Jaschke, P., Kosyakova, Y., Auer, D., Hunkler, C., Salikutluk, Z., Sprengholz, M., & Kubis, A. (2025). Immigrants’ recruitment chances in the German labor market: Evidence from large-scale survey experiments (Research Report No. 6/2025). IAB-Forschungsbericht. https://doi.org/10.48720/IAB.FB.2506
 
 ### Other
 
 Kreyenfeld, M., Sprengholz, M., & Schieckoff, B. (2022). Female Mobility. In E. J. Bussemer, F. Albrecht, D. Riethmüller, & C. Jakob (Eds.), Atlas of Migration. New Facts and Figures About People on the Move (pp. 42–43). Rosa-Luxemburg-Stiftung. https://www.rosalux.de/en/publication/id/49454
 
-Holm, A., Regnault, V., Sprengholz, M., & Stephan, M. (2021). Muster sozialer Ungleichheit der Wohnversorgung in deutschen Großstädten. Working Paper Forschungsförderung No. 222, Hans-Böckler-Stiftung. https://www.econstor.eu/handle/10419/237091. 
+Holm, A., Regnault, V., Sprengholz, M., & Stephan, M. (2021). Muster sozialer Ungleichheit der Wohnversorgung in deutschen Großstädten. Working Paper Forschungsförderung No. 222, Hans-Böckler-Stiftung. https://www.econstor.eu/handle/10419/237091 
 
 Holm, A., Regnault, V., Sprengholz, M., & Stephan, M. (2021). Die Verfestigung sozialer Wohnversorgungsprobleme: Entwicklung der Wohnverhältnisse und der sozialen Wohnversorgung von 2006 bis 2018 in 77 deutschen Großstädten. Working Paper Forschungsförderung No. 217, Hans-Böckler-Stiftung. https://www.econstor.eu/handle/10419/234975
+
+### Data
+
+Sprengholz, M.. Salikutluk, Z., Kosyakova, Y., Jaschke, P., Hunkler, C., Auer, D.(forthcoming 2026): Seeing Your Religion Survey. DeZIM.fdz.
 
 ### Software
 
