@@ -1,7 +1,7 @@
 # Maximilian Sprengholz
 (he/him)
 
-I recently earned my PhD in Sociology from Humboldt-Universität zu Berlin and the Berlin Graduate School of Social Sciences (BGSS). My research focused on labor market inequalities at the intersection of nativity and gender. Currently, I am seeking a position in research infrastructure and processes related to open science rather than research itself.
+I recently earned my PhD in Sociology from Humboldt-Universität zu Berlin, conducting quantitative research into labour market inequalities at the intersection of nativity and gender. I am currently seeking a new position as a data analyst or within research infrastructure related to open science.
 
 [maximilian.sprengholz@protonmail.com](mailto:maximilian.sprengholz@protonmail.com)<br />
 [https://orcid.org/0000-0003-3829-3665](https://orcid.org/0000-0003-3829-3665)<br />
@@ -93,7 +93,7 @@ Sprengholz, M.. Salikutluk, Z., Kosyakova, Y., Jaschke, P., Hunkler, C., Auer, D
 
 ### Software
 
-Sprengholz, Maximilian & Maik Hamjediers, 2024. ["NOPO: Stata module to perform Nopo (2008) matching decompositions,"](https://ideas.repec.org/c/boc/bocode/s459289.html) Statistical Software Components S459289, Boston College Department of Economics. Ongoing development on GitHub: https://github.com/mhamjediers/nopo_decomposition
+Sprengholz, M., Hamjediers M. (2024): ["NOPO: Stata module to perform Nopo (2008) matching decompositions,"](https://ideas.repec.org/c/boc/bocode/s459289.html) Statistical Software Components S459289, Boston College Department of Economics. Ongoing development on GitHub: https://github.com/mhamjediers/nopo_decomposition
 
 See also my GitHub page for public code: https://github.com/maximilian-sprengholz
 
