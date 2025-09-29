@@ -119,7 +119,7 @@ Sprengholz, M.. Salikutluk, Z., Kosyakova, Y., Jaschke, P., Hunkler, C., Auer, D
 
 ### Software
 
-Sprengholz, M., Hamjediers M. (2024): ["NOPO: Stata module to perform Nopo (2008) matching decompositions,"](https://ideas.repec.org/c/boc/bocode/s459289.html) Statistical Software Components S459289, Boston College Department of Economics. Ongoing development on GitHub: https://github.com/mhamjediers/nopo_decomposition
+Sprengholz, M., Hamjediers M. (2024). [NOPO: Stata module to perform Nopo (2008) matching decompositions](https://ideas.repec.org/c/boc/bocode/s459289.html). Statistical Software Components S459289, Boston College Department of Economics. Ongoing development on GitHub: https://github.com/mhamjediers/nopo_decomposition
 
 See also my GitHub page for public code: https://github.com/maximilian-sprengholz
 
@@ -129,7 +129,7 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 <table class="cv">
 <tr>
   <td>2024</td>
-  <td>Spring Meeting "The Power Of Where", General Online Research Conference</td>
+  <td>Spring Meeting <i>The Power Of Where</i>, General Online Research Conference</td>
 </tr>
 <tr>
   <td>2023</td>
@@ -194,25 +194,25 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 <tr>
   <td>2024</td>
   <td>
-  Workshop "Räumliche Kontextdaten", DeZIM Institut, <a href="https://github.com/maximilian-sprengholz/contextdata">GitHub</a>
+  Workshop <i>Räumliche Kontextdaten</i>, DeZIM Institut, <a href="https://github.com/maximilian-sprengholz/contextdata">GitHub</a>
   </td>
 </tr>
 <tr>
   <td>2023</td>
   <td>
-  Workshop "Reproduzierbarkeit und Kollaboration im Forschungsalltag", Humboldt-Universität zu Berlin, Colloquium Empirische Methoden der Sozialforschung, <a href="https://github.com/maximilian-sprengholz/repro-collab">GitHub</a>
+  Workshop <i>Reproduzierbarkeit und Kollaboration im Forschungsalltag</i>, Humboldt-Universität zu Berlin, Colloquium Empirische Methoden der Sozialforschung, <a href="https://github.com/maximilian-sprengholz/repro-collab">GitHub</a>
   </td>
 </tr>
 <tr>
   <td>2021</td>
   <td>
-  Workshop "Reproduzierbarkeit und Kollaboration im Forschungsalltag", Humboldt-Universität zu Berlin, Colloquium Empirische Methoden der Sozialforschung
+  Workshop <i>Reproduzierbarkeit und Kollaboration im Forschungsalltag</i>, Humboldt-Universität zu Berlin, Colloquium Empirische Methoden der Sozialforschung
   </td>
 </tr>
 <tr>
   <td>2019 - 2020</td>
   <td>
-  Master's course "Sozialwissenschaftliche Armutsforschung" (2 semesters, 4 hours/week) with Johannes Giesecke, Humboldt-Universität zu Berlin
+  Master's course <i>Sozialwissenschaftliche Armutsforschung</i> (2 semesters, 4 hours/week) with Johannes Giesecke, Humboldt-Universität zu Berlin
   </td>
 </tr>
 </table>
@@ -227,19 +227,19 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 <tr>
   <td>2023</td>
   <td>
-  Organization of and participation in the panel discussion "Doing Quantitative Intersectional Research" with Niels Spierings, Christiane Gross, Zerrin Salikutluk, and Lena Keller (among others), BIM
+  Organization of and participation in the panel discussion <i>Doing Quantitative Intersectional Research</i> with Niels Spierings, Christiane Gross, Zerrin Salikutluk, and Lena Keller (among others), BIM
   </td>
 </tr>
 <tr>
   <td>2023</td>
   <td>
-  Participation in the "Next Grand Challenge" Forum of the Berlin University Alliance, Berlin
+  Participation in the <i>Next Grand Challenge</i> Forum of the Berlin University Alliance, Berlin
   </td>
 </tr>
 <tr>
   <td>2018</td>
   <td>
-  Student member of the search committee for the S-Professorship "Social Science Research Methods (Focus on Survey Methodology)", Humboldt-Universität zu Berlin
+  Student member of the search committee for the S-Professorship <i>Social Science Research Methods (Focus on Survey Methodology)</i>, Humboldt-Universität zu Berlin
   </td>
 </tr>
 </table>
@@ -250,37 +250,37 @@ Introduction to Artificial Intelligence with Python
 <tr>
   <td>In progress</td>
   <td>
-  HarvardX CS50AI: Introduction to Artificial Intelligence with Python
+  HarvardX CS50AI course <i>Introduction to Artificial Intelligence with Python</i>(expected completion Oct 2025)
   </td>
 </tr>
 <tr>
   <td>2023</td>
   <td>
-  BERD Academy course "Microsimulation and Machine Learning with Official Statistics", online
+  BERD Academy course <i>Microsimulation and Machine Learning with Official Statistics</i>, online
   </td>
 </tr>
 <tr>
   <td>2023</td>
   <td>
-  Workshop "Publishing Open Access", Humboldt-Universität zu Berlin
+  Workshop <i>Publishing Open Access</i>, Humboldt-Universität zu Berlin
   </td>
 </tr>
 <tr>
   <td>2023</td>
   <td>
-  Workshop "Acedemic Editors' Perspective: Writing and Publishing in Peer-Reviews Journals", Humboldt-Universität zu Berlin
+  Workshop <i>Acedemic Editors' Perspective: Writing and Publishing in Peer-Reviews Journals</i>, Humboldt-Universität zu Berlin
   </td>
 </tr>
 <tr>
   <td>2021</td>
   <td>
-  DYNAMICS workshops "Survey Experiments" and "Online Experiments", online
+  DYNAMICS workshops <i>Survey Experiments</i> and <i>Online Experiments</i>, online
   </td>
 </tr>
 <tr>
   <td>2021</td>
   <td>
-  Summer School "Visualizing Open Access", Humboldt-Universität zu Berlin
+  Summer School <i>Visualizing Open Access</i>, Humboldt-Universität zu Berlin
   </td>
 </tr>
 </table>
