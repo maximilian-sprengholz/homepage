@@ -245,12 +245,12 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 </table>
 
 ## Further Training
-Introduction to Artificial Intelligence with Python
+
 <table class="cv">
 <tr>
   <td>In progress</td>
   <td>
-  HarvardX CS50AI course <i>Introduction to Artificial Intelligence with Python</i>(expected completion Oct 2025)
+  HarvardX CS50AI course <i>Introduction to Artificial Intelligence with Python</i> (expected completion Oct 2025)
   </td>
 </tr>
 <tr>
