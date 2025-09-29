@@ -1,7 +1,7 @@
 # Maximilian Sprengholz
 (he/him)
 
-I recently earned my PhD in Sociology from Humboldt-Universität zu Berlin, conducting quantitative research into labour market inequalities at the intersection of nativity and gender. I am currently seeking a new position as a data analyst or within research infrastructure related to open science.
+I recently earned my PhD in Sociology from Humboldt-Universität zu Berlin, conducting quantitative research into labor market inequalities at the intersection of nativity and gender. I am currently seeking a new position as a data analyst or within research infrastructure related to open science.
 
 [maximilian.sprengholz@protonmail.com](mailto:maximilian.sprengholz@protonmail.com)<br />
 [https://orcid.org/0000-0003-3829-3665](https://orcid.org/0000-0003-3829-3665)<br />
@@ -15,11 +15,11 @@ Ueckermünder Str. 1 <br />
 <table class="cv-fixed">
 <tr>
   <td>May 2022 - Dec 2024</td>
-  <td>Researcher, Berliner Institut für empirische Integrations- und Migrationsforschung (BIM), Humboldt-Universität zu Berlin as part of the BMFSFJ-funded Forschungsgruppe Diskriminierung und Rassismus (FoDiRa) in the sub-project <i>Seeing your religion. The situation of female immigrants on the German labour market</i>. PIs: Zerrin Salikutluk, Christian Hunkler, Yuliya Kosyakova, Daniel Auer</td>
+  <td>Researcher, Berliner Institut für empirische Integrations- und Migrationsforschung (BIM), Humboldt-Universität zu Berlin as part of the BMFSFJ-funded Forschungsgruppe Diskriminierung und Rassismus (FoDiRa) in the sub-project <i>Seeing Your Religion – Regional Variation of Anti-Muslim Discrimination and Racism on the German Labor Market</i>. PIs: Zerrin Salikutluk, Christian Hunkler, Yuliya Kosyakova, Daniel Auer</td>
 </tr>
 <tr>
   <td>Feb 2019 - Mar 2022</td>
-  <td>Researcher, Humboldt-Universität zu Berlin, Department of Social Sciences as part of the DFG-funded project <i>Female Employment after Migration (FEM)</i>. PIs: Johannes Giesecke, Claudia Diehl, Michaela Kreyenfeld, Martin Kroh</td>
+  <td>Researcher, Humboldt-Universität zu Berlin, Department of Social Sciences as part of the DFG-funded project <i>Female Employment after Migration</i>. PIs: Johannes Giesecke, Claudia Diehl, Michaela Kreyenfeld, Martin Kroh</td>
 </tr>
 <tr>
   <td>Jun 2017 - Jan 2019</td>
@@ -48,11 +48,28 @@ Ueckermünder Str. 1 <br />
   <td>MA in Social Sciences, Humboldt-Universität zu Berlin</td>
 </tr>
 <tr>
-  <td>2007 - 2013</td>
-  <td>BA & MA in Communication Science, Friedrich-Schiller-Universität Jena</td>
+  <td>2010 - 2013</td>
+  <td>MA in Public Communication, Friedrich-Schiller-Universität Jena</td>
+</tr>
+<tr>
+  <td>2007 - 2010</td>
+  <td>BA in Communication Science, Friedrich-Schiller-Universität Jena</td>
 </tr>
 </table>
 
+## Expertise and Skills
+
+<table class="cv">
+<tr>
+<td>Research</td>
+<td>Quantitative methods, intersectionality, social inequaltity by gender and nativity, migration and integration, labor market, poverty, discrimination, racism, (experimental)survey design/programming</td>
+<tr>
+<td>Software</td>
+<td>Stata, R, Python, Git, Markdown, LaTeX, HTML/CSS, JavaScript, Qualtrics, conda, pixi, Microsoft/Libre Office, Adobe Photoshop/InDesign/Illustrator, Sketch, Figma<td>
+<tr>
+<td>Language</td>
+<td>German: native, English: C1</td>
+</tr>
 
 ## Publications
 
@@ -131,19 +148,33 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 </tr>
 </table>
 
-## Awards
+## Awards and Grants
 
 <table class="cv">
 <tr>
   <td>2023</td>
   <td>
-  <a href="https://sase.org/news/2023-ser-best-article-prize/">SER Best Article Prize</a> for Sprengholz, M., Wieber, A., & Holst, E. (2020). Gender identity and wives’ labor market outcomes in West and East Germany between 1983 and 2016. <i>Socio-Economic Review, mwaa048.</i> <a href="https://doi.org/10/ghc8wq">https://doi.org/10/ghc8wq</a>.
+  <a href="https://sase.org/news/2023-ser-best-article-prize/">SER Best Article Prize</a> for Sprengholz, M., Wieber, A., & Holst, E. (2020). Gender identity and wives’ labor market outcomes in West and East Germany between 1983 and 2016. <i>Socio-Economic Review, mwaa048.</i> <a href="https://doi.org/10/ghc8wq">https://doi.org/10/ghc8wq</a>.<br />
+  <span class="grant-amount">$1,000</span>
+  </td>
+</tr>
+<tr>
+  <td>2023</td>
+  <td>
+  Research Grant for <i>Seeing Your Religion – Regional Variation of Anti-Muslim Discrimination and Racism on the German Labor Market</i>, 2022-2024, Federal Ministry for Family Affairs, Senior Citizens, Women and Youth (BMFSJ). PIs: Zerrin Salikutluk, Christian Hunkler (BIM), Yuliya Kosyakova (IAB), Daniel Auer (MZES)<br />
+  <span class="grant-amount">€420,000</span>
   </td>
 </tr>
 <tr>
   <td>2021</td>
   <td>
   Best Prototype Award Open Access Summer School, Humboldt-Universität zu Berlin, for <a href="https://observablehq.com/@sansan/open-access-time-tracker">this prototype</a>. See also <a href="https://github.com/maximilian-sprengholz/visoa">https://github.com/maximilian-sprengholz/visoa</a>.
+  </td>
+</tr>
+<tr>
+  <td>2016</td>
+  <td>
+  <a href="https://www.dpok.de/rueckblick/best-of-2016/#22-website">Shortlisted</a> for the Deutscher Preis für Onlinekommunikation for the website relaunch of SPD.de with BUTTERBERLIN.
   </td>
 </tr>
 </table>
@@ -160,19 +191,19 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 <tr>
   <td>2023</td>
   <td>
-  Workshop "Replizierbarkeit und Kollaboration im Forschungsalltag", Humboldt-Universität zu Berlin, Colloquium Empirische Methoden der Sozialforschung, <a href="https://github.com/maximilian-sprengholz/repro-collab">GitHub</a>
+  Workshop "Reproduzierbarkeit und Kollaboration im Forschungsalltag", Humboldt-Universität zu Berlin, Colloquium Empirische Methoden der Sozialforschung, <a href="https://github.com/maximilian-sprengholz/repro-collab">GitHub</a>
   </td>
 </tr>
 <tr>
   <td>2021</td>
   <td>
-  Workshop "Replizierbarkeit und Kollaboration im Forschungsalltag", Humboldt-Universität zu Berlin, Colloquium Empirische Methoden der Sozialforschung
+  Workshop "Reproduzierbarkeit und Kollaboration im Forschungsalltag", Humboldt-Universität zu Berlin, Colloquium Empirische Methoden der Sozialforschung
   </td>
 </tr>
 <tr>
   <td>2019 - 2020</td>
   <td>
-  Master's course "Sozialwissenschaftliche Armutsforschung", Humboldt-Universität zu Berlin
+  Master's course "Sozialwissenschaftliche Armutsforschung" (2 semesters, 4 hours/week) with Johannes Giesecke, Humboldt-Universität zu Berlin
   </td>
 </tr>
 </table>
@@ -238,13 +269,5 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
   </td>
 </tr>
 </table>
-
-## Language Proficiency
-
-<table class="cv">
-<tr><td>German</td><td>Native language</td></tr>
-<tr><td>English</td><td>Fluent</td></tr>
-</table>
-
 
 
