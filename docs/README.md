@@ -35,7 +35,7 @@ Ueckermünder Str. 1 <br />
 </tr>
 <tr>
   <td>Dec 2013 - Nov 2014</td>
-  <td>Trainee Art. BUTTERBERLIN GmbH, Berlin</td>
+  <td>Trainee Art, BUTTERBERLIN GmbH, Berlin</td>
 </tr>
 </table>
 
@@ -245,8 +245,14 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 </table>
 
 ## Further Training
-
+Introduction to Artificial Intelligence with Python
 <table class="cv">
+<tr>
+  <td>In progress</td>
+  <td>
+  HarvardX CS50AI: Introduction to Artificial Intelligence with Python
+  </td>
+</tr>
 <tr>
   <td>2023</td>
   <td>
