@@ -160,7 +160,7 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
   </td>
 </tr>
 <tr>
-  <td>2023</td>
+  <td>2022</td>
   <td>
   Research Grant for <i>Seeing Your Religion – Regional Variation of Anti-Muslim Discrimination and Racism on the German Labor Market</i>, 2022-2024, Federal Ministry for Family Affairs, Senior Citizens, Women and Youth (BMFSJ). PIs: Zerrin Salikutluk, Christian Hunkler (BIM), Yuliya Kosyakova (IAB), Daniel Auer (MZES)<br />
   <span class="grant-amount">€420,000</span>
