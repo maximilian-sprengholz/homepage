@@ -155,7 +155,7 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 <tr>
   <td>2023</td>
   <td>
-  <a href="https://sase.org/news/2023-ser-best-article-prize/">SER Best Article Prize</a> for Sprengholz, M., Wieber, A., & Holst, E. (2020). Gender identity and wives’ labor market outcomes in West and East Germany between 1983 and 2016. <i>Socio-Economic Review, mwaa048.</i> <a href="https://doi.org/10/ghc8wq">https://doi.org/10/ghc8wq</a>.<br />
+  <a href="https://sase.org/news/2023-ser-best-article-prize/">SER Best Article Prize</a> for Sprengholz, M., Wieber, A., & Holst, E. (2020). Gender identity and wives’ labor market outcomes in West and East Germany between 1983 and 2016. <i>Socio-Economic Review, mwaa048</i><br/>
   <span class="grant-amount">$1,000</span>
   </td>
 </tr>
@@ -169,13 +169,13 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 <tr>
   <td>2021</td>
   <td>
-  Best Prototype Award Open Access Summer School, Humboldt-Universität zu Berlin, for <a href="https://observablehq.com/@sansan/open-access-time-tracker">this prototype</a>. See also <a href="https://github.com/maximilian-sprengholz/visoa">https://github.com/maximilian-sprengholz/visoa</a>.
+  Best Prototype Award Open Access Summer School, Humboldt-Universität zu Berlin, for <a href="https://observablehq.com/@sansan/open-access-time-tracker">this prototype</a>. See also <a href="https://github.com/maximilian-sprengholz/visoa">https://github.com/maximilian-sprengholz/visoa</a>
   </td>
 </tr>
 <tr>
   <td>2016</td>
   <td>
-  <a href="https://www.dpok.de/rueckblick/best-of-2016/#22-website">Shortlisted</a> for the Deutscher Preis für Onlinekommunikation for the website relaunch of SPD.de with BUTTERBERLIN.
+  <a href="https://www.dpok.de/rueckblick/best-of-2016/#22-website">Shortlisted</a> for the Deutscher Preis für Onlinekommunikation for the website relaunch of SPD.de with BUTTERBERLIN
   </td>
 </tr>
 </table>
