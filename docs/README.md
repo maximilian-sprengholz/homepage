@@ -26,8 +26,16 @@ Ueckermünder Str. 1 <br />
   <td>Working Student Gender Economics, Deutsches Institut für Wirtschaftsforschung, Berlin</td>
 </tr>
 <tr>
-  <td>Dec 2013 - Dec 2017</td>
-  <td>Trainee, Junior Art Director, Art Director, BUTTERBERLIN GmbH (Creative and communication agency), Berlin</td>
+  <td>Jan 2016 - Dec 2017</td>
+  <td>Art Director, BUTTERBERLIN GmbH, Berlin</td>
+</tr>
+<tr>
+  <td>Dec 2014 - Dec 2015</td>
+  <td>Junior Art Director, BUTTERBERLIN GmbH, Berlin</td>
+</tr>
+<tr>
+  <td>Dec 2013 - Nov 2014</td>
+  <td>Trainee Art. BUTTERBERLIN GmbH, Berlin</td>
 </tr>
 </table>
 
