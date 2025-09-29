@@ -70,6 +70,7 @@ Ueckermünder Str. 1 <br />
 <td>Language</td>
 <td>German: native, English: C1</td>
 </tr>
+</table>
 
 ## Publications
 
