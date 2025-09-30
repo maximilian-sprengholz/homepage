@@ -15,11 +15,11 @@ Ueckermünder Str. 1 <br />
 <table class="cv-fixed">
 <tr>
   <td>Mai 2022 - Dez 2024</td>
-  <td>Wissenschaftlicher Mitarbeiter, Berliner Institut für empirische Integrations- und Migrationsforschung (BIM), Humboldt-Universität zu Berlin. Teil der BMFSFJ-geförderten Forschungsgruppe Diskriminierung und Rassismus (FoDiRa) im Teilprojekt <i>Seeing Your Religion – Regionale Variation von Diskriminierung und Rassismus gegenüber Muslim*innen auf dem deutschen Arbeitsmarkt</i>. PIs: Zerrin Salikutluk, Christian Hunkler, Yuliya Kosyakova, Daniel Auer</td>
+  <td>Wissenschaftlicher Mitarbeiter, Berliner Institut für empirische Integrations- und Migrationsforschung (BIM), Humboldt-Universität zu Berlin. Teil der BMFSFJ-geförderten Forschungsgruppe Diskriminierung und Rassismus (FoDiRa) im Teilprojekt <i>Seeing Your Religion – Regionale Variation von Diskriminierung und Rassismus gegenüber Muslim*innen auf dem deutschen Arbeitsmarkt</i>. PIs: Zerrin Salikutluk , Christian Hunkler (HU Berlin & BIM), Yuliya Kosyakova (IAB), Daniel Auer (MZES)</td>
 </tr>
 <tr>
   <td>Feb 2019 - Mär 2022</td>
-  <td>Wissenschaftlicher Mitarbeiter, Humboldt-Universität zu Berlin, Institut für Sozialwissenschaften. Teil des DFG-geförderten Projekts <i>Female Employment after Migration</i>. PIs: Johannes Giesecke, Claudia Diehl, Michaela Kreyenfeld, Martin Kroh</td>
+  <td>Wissenschaftlicher Mitarbeiter, Humboldt-Universität zu Berlin, Institut für Sozialwissenschaften. Teil des DFG-geförderten Projekts <i>Female Employment after Migration</i>. PIs: Johannes Giesecke (HU Berlin), Claudia Diehl (Uni Konstanz), Michaela Kreyenfeld (Hertie School), Martin Kroh (Uni Bielefeld)</td>
 </tr>
 <tr>
   <td>Jun 2017 - Jan 2019</td>
@@ -69,7 +69,7 @@ Ueckermünder Str. 1 <br />
 <table class="cv">
 <tr>
 <td>Forschung</td>
-<td>Datenanalyse, quantitative Methoden, Intersektionalität, soziale Ungleichheit nach Migration und Geschlecht, Migration und Integration, Arbeitsmarkt, Armut, Diskriminierung, Rassismus, Design und Programmierung (experimenteller) Befragungen</td>
+<td>Soziale Ungleichheit (insb. in Bezug auf Migration und Geschlecht), Intersektionalität, quantitative Methoden, Migration und Integration, Arbeitsmarkt, Armut, Diskriminierung, Rassismus, Design und Programmierung (experimenteller) Befragungen</td>
 <tr>
 <td>Software</td>
 <td>Stata, R, Python, Git, Markdown, LaTeX, HTML/CSS, JavaScript, Qualtrics, conda, pixi, Microsoft/Libre Office, Adobe Photoshop/InDesign/Illustrator, Sketch, Figma<td>
@@ -190,7 +190,7 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 <tr>
   <td>2021</td>
   <td>
-  Best Prototype Award Open Access Summer School, Humboldt-Universität zu Berlin, for <a href="https://observablehq.com/@sansan/open-access-time-tracker">this prototype</a>. See also <a href="https://github.com/maximilian-sprengholz/visoa">https://github.com/maximilian-sprengholz/visoa</a>
+  Best Prototype Award der Open Access Summer School, Humboldt-Universität zu Berlin, für <a href="https://observablehq.com/@sansan/open-access-time-tracker">diesen Prototyp</a>. Siehe auch <a href="https://github.com/maximilian-sprengholz/visoa">https://github.com/maximilian-sprengholz/visoa</a>
   </td>
 </tr>
 <tr>
@@ -250,7 +250,13 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
   </td>
 </tr>
 <tr>
-  <td>2022-2023</td>
+  <td>2022, 2024</td>
+  <td>
+  Organisation und Moderation des zweiwöchentlichen Forschungsseminars und Teammeetings am BIM
+  </td>
+</tr>
+<tr>
+  <td>2022 - 2023</td>
   <td>
   Konzeption (mit Zerrin Salikutluk und Christian Hunkler) und Gestaltung der neuen <a href="https://edoc.hu-berlin.de/communities/5e928467-e4bf-40a1-863c-a9928212878b">BIM Publikationsreihe</a> (derzeit verfügbar: BIM News, BIM Working Papers)
   </td>
