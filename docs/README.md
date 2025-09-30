@@ -70,7 +70,7 @@ Ueckermünder Str. 1 <br />
 <table class="cv">
 <tr>
 <td>Research</td>
-<td>social inequality (especially by gender and nativity), intersectionality, quantitative methods, migration and integration, labor market, poverty, discrimination, racism, (experimental) survey design/programming</td>
+<td>Social inequality (especially by gender and nativity), intersectionality, quantitative methods, migration and integration, labor market, poverty, discrimination, racism, (experimental) survey design/programming</td>
 <tr>
 <td>Software</td>
 <td>Stata, R, Python, Git, Markdown, LaTeX, HTML/CSS, JavaScript, Qualtrics, conda, pixi, Microsoft/Libre Office, Adobe Photoshop/InDesign/Illustrator, Sketch, Figma<td>
