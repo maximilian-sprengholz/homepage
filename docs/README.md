@@ -258,7 +258,7 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
   </td>
 </tr>
 <tr>
-  <td>2022-2023</td>
+  <td>2022 - 2023</td>
   <td>
   Concept (with Zerrin Salikutluk and Christian Hunkler) und design of the new <a href="https://edoc.hu-berlin.de/communities/5e928467-e4bf-40a1-863c-a9928212878b">BIM Publication Series</a> (currently available: BIM News, BIM Working Papers)
   </td>
