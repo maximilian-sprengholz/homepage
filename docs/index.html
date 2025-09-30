@@ -108,6 +108,13 @@
     color: #888888;
     font-style: italic;
   }
+  select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: none;
+    color:#8b42b9
+    padding: 0
+  }
   /* Tables */
   /* table > thead:has(> tr > th:empty):not(:has(> tr > th:not(:empty))) {
   display: none;
@@ -176,7 +183,7 @@
           alias: {
           "/de/.*_sidebar.md":
             "https://raw.githubusercontent.com/maximilian-sprengholz/homepage/refs/heads/master/docs/de/_sidebar.md",
-          "/.*/_sidebar.md":
+          "/_sidebar.md":
             "https://raw.githubusercontent.com/maximilian-sprengholz/homepage/refs/heads/master/docs/_sidebar.md",
           "/de/(.*)":
             "https://raw.githubusercontent.com/maximilian-sprengholz/homepage/refs/heads/master/docs/de/",
