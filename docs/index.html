@@ -174,6 +174,26 @@
     }
   }
 
+  /* print -> exclude intro, adjust padding */
+  @media print
+    {
+      .content {
+        padding-top: 0px;
+      }
+
+      #main p:nth-of-type(2) {
+        display: none;
+      }
+
+      body .sidebar,
+      body .sidebar-toggle {
+        display: none !important;
+      }
+      body .content {
+        left: 0px !important;
+      }
+    }
+
   </style>
 </head>
 <body>
