@@ -233,7 +233,7 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 <tr>
   <td>2023</td>
   <td>
-  Participation in the <i>Next Grand Challenge</i> Forum of the Berlin University Alliance, Berlin
+  Advocating for intersectionality as the <i>Next Grand Challenge</i> in the corresponding forum of the Berlin University Alliance, Berlin
   </td>
 </tr>
 <tr>

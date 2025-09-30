@@ -164,6 +164,7 @@
   </style>
 </head>
 <body>
+
   <div id="app"></div>
 
   <script>
@@ -171,14 +172,43 @@
         loadSidebar: true,
         subMaxLevel: 2,
         themeColor: '#8b42b9',
-        name: '',
+        // Language settings
+          alias: {
+          "/de/.*_sidebar.md":
+            "https://raw.githubusercontent.com/maximilian-sprengholz/homepage/refs/heads/master/docs/de/_sidebar.md",
+          "/.*/_sidebar.md":
+            "https://raw.githubusercontent.com/maximilian-sprengholz/homepage/refs/heads/master/docs/_sidebar.md",
+          "/de/(.*)":
+            "https://raw.githubusercontent.com/maximilian-sprengholz/homepage/refs/heads/master/docs/de/",
+          "/(.*)":
+            "https://raw.githubusercontent.com/test-prof/test-prof/master/docs/$1",
+        },
+        // '<a id="home-link" class="app-name-link" data-nosearch href="/">Home</a>' +
+        name: '<select id="lang-selector" name="lang">' +
+                '<option value="">English</value>' +
+                '<option value="de">Deutsch</value>' +
+              '</select>',
+        nameLink: false, // avoid navigating when clicking on select
+        fallbackLanguages: ['de'],
+        namespaces: [
+          {
+            id: "lang",
+            values: ["de"],
+            optional: true,
+            selector: "#lang-selector",
+          },
+        ],
     }
   </script>
+
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 
   <!-- bash highlighting -->
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+
+  <!-- namespaces -->
+   <script src="https://unpkg.com/docsify-namespaced"></script>
 
 </body>
 </html>
