@@ -10,7 +10,7 @@ Ueckermünder Str. 1 <br />
 10439 Berlin
 
 
-## Berufserfahrung
+## Werdegang
 
 <table class="cv-fixed">
 <tr>
@@ -39,7 +39,7 @@ Ueckermünder Str. 1 <br />
 </tr>
 </table>
 
-## Studium
+## Abschlüsse
 
 <table class="cv">
 <tr>
@@ -69,7 +69,7 @@ Ueckermünder Str. 1 <br />
 <table class="cv">
 <tr>
 <td>Forschung</td>
-<td>Datenanalyse, quantitative Methoden, Intersektionalität, soziale Ungleichheit nach migration und geschlecht, migration und integration, Arbeitsmarkt, Armut, Diskriminierung, Rassismus, Design und Programmierung (experimenteller) Befragungen</td>
+<td>Datenanalyse, quantitative Methoden, Intersektionalität, soziale Ungleichheit nach Migration und Geschlecht, Migration und Integration, Arbeitsmarkt, Armut, Diskriminierung, Rassismus, Design und Programmierung (experimenteller) Befragungen</td>
 <tr>
 <td>Software</td>
 <td>Stata, R, Python, Git, Markdown, LaTeX, HTML/CSS, JavaScript, Qualtrics, conda, pixi, Microsoft/Libre Office, Adobe Photoshop/InDesign/Illustrator, Sketch, Figma<td>
@@ -114,49 +114,63 @@ Holm, A., Regnault, V., Sprengholz, M., & Stephan, M. (2021). Die Verfestigung s
 
 ### Daten
 
-Sprengholz, M.. Salikutluk, Z., Kosyakova, Y., Jaschke, P., Hunkler, C., Auer, D. (forthcoming 2026): Seeing Your Religion Survey. DeZIM.fdz.
+Sprengholz, M.. Salikutluk, Z., Kosyakova, Y., Jaschke, P., Hunkler, C., & Auer, D. (forthcoming 2026): Seeing Your Religion Survey. DeZIM.fdz.
 
 ### Software
 
-Sprengholz, M., Hamjediers M. (2024). [NOPO: Stata module to perform Nopo (2008) matching decompositions](https://ideas.repec.org/c/boc/bocode/s459289.html). Statistical Software Components S459289, Boston College Department of Economics. Ongoing development on GitHub: https://github.com/mhamjediers/nopo_decomposition
+Sprengholz, M., & Hamjediers M. (2024). [NOPO: Stata module to perform Nopo (2008) matching decompositions](https://ideas.repec.org/c/boc/bocode/s459289.html). Statistical Software Components S459289, Boston College Department of Economics. Ongoing development on GitHub: https://github.com/mhamjediers/nopo_decomposition
 
 See also my GitHub page for public code: https://github.com/maximilian-sprengholz
-
 
 ## Präsentationen
 
 <table class="cv">
 <tr>
   <td>2024</td>
-  <td>Spring Meeting <i>The Power Of Where</i>, General Online Research Conference</td>
+  <td>
+  Spring Meeting <i>The Power Of Where</i>, Cottbus<br />
+  GOR, Köln
+  </td>
 </tr>
 <tr>
   <td>2023</td>
-  <td>Tagung des Netzwerks für empirisch-analytische Sozialforschung zu Muslim:innen (NAFS), DeZIM FG-Wednesday, Stata User Conference, 4th Workshop on Gender and Migration</td>
+  <td>
+  Tagung des Netzwerks für empirisch-analytische Sozialforschung zu Muslim:innen (NAFS), Erlangen<br />
+  DeZIM FG-Wednesday, online<br />
+  4th Workshop on Gender and Migration, Nürnberg</td>
 </tr>
 <tr>
   <td>2022</td>
-  <td>DeZIM-Tagung</td>
+  <td>DeZIM-Tagung, Berlin</td>
 </tr>
 <tr>
   <td>2021</td>
-  <td>ECSR Conference, Fachkonferenz Zuwanderung und Arbeitsmarktintegration, Women on the Move Workshop</td>
+  <td>
+  ECSR, online<br />
+  Fachkonferenz Zuwanderung und Arbeitsmarktintegration, online<br />
+  Women on the Move Workshop, online<br />
+  </td>
 </tr>
 <tr>
   <td>2020</td>
-  <td>DGS Kongress, IAFFE @ ASSA 2020</td>
+  <td>
+  DGS Kongress, online<br />
+  IAFFE @ ASSA, San Diego (USA)
+  </td>
 </tr>
 <tr>
   <td>2019</td>
-  <td>Verein für Socialpolitik Jahrestagung</td>
+  <td>Verein für Socialpolitik Jahrestagung, Leipzig</td>
 </tr>
 <tr>
   <td>2018</td>
-  <td>Gender Economics and the Workplace Conference, Gender Economics Workshop</td>
+  <td>
+  Gender Economics and the Workplace Conference, Erlangen<br />
+  Gender Economics Workshop, Berlin</td>
 </tr>
 </table>
 
-## Preise und Förderungen
+## Auszeichnungen und Drittmittel
 
 <table class="cv">
 <tr>
@@ -226,24 +240,30 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 <tr>
   <td>2023</td>
   <td>
-  Organization und Teilnahme (an) der Paneldiskussion <i>Doing Quantitative Intersectional Research</i>, u.a. mit Niels Spierings, Christiane Gross, Zerrin Salikutluk, und Lena Keller, BIM
+  Organisation (mit Sophie Harms und Simon Ruhnke) von und Teilnahme an der Paneldiskussion <i>Doing Quantitative Intersectional Research</i>, mit Niels Spierings, Christiane Gross, Zerrin Salikutluk, Lena Keller und Sophie Harms, BIM
   </td>
 </tr>
 <tr>
   <td>2023</td>
   <td>
-  Verfechten des Themas Intersektionalität als <i>Next Grand Challenge</i> im gleichnamigen Forum der Berlin University Alliance, Berlin
+  Plädieren für Intersektionalität als <i>Next Grand Challenge</i> im gleichnamigen Forum der Berlin University Alliance, gemeinsam mit Zerrin Salikutluk und Maisha Auma, Berlin
+  </td>
+</tr>
+<tr>
+  <td>2022-2023</td>
+  <td>
+  Konzeption (mit Zerrin Salikutluk und Christian Hunkler) und Gestaltung der neuen <a href="https://edoc.hu-berlin.de/communities/5e928467-e4bf-40a1-863c-a9928212878b">BIM Publikationsreihe</a> (derzeit verfügbar: BIM News, BIM Working Papers)
   </td>
 </tr>
 <tr>
   <td>2018</td>
   <td>
-  Studentisches Mitglied der Berufungskommission für die S-Professur <i>Social Science Research Methods (Focus on Survey Methodology)</i>, Humboldt-Universität zu Berlin
+  Studentisches Mitglied der Berufungskommission für die S-Professur <i>Sozialwissenschaftliche Methoden mit dem Schwerpunkt Survey-Methodik</i>, Humboldt-Universität zu Berlin
   </td>
 </tr>
 </table>
 
-## Weiteres Training
+## Weiterbildung
 
 <table class="cv">
 <tr>
@@ -267,7 +287,7 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 <tr>
   <td>2023</td>
   <td>
-  Workshop <i>Acedemic Editors' Perspective: Writing and Publishing in Peer-Reviews Journals</i>, Humboldt-Universität zu Berlin
+  Workshop <i>Academic Editors' Perspective: Writing and Publishing in Peer-Reviews Journals</i>, Humboldt-Universität zu Berlin
   </td>
 </tr>
 <tr>
@@ -280,6 +300,12 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
   <td>2021</td>
   <td>
   Summer School <i>Visualizing Open Access</i>, Humboldt-Universität zu Berlin
+  </td>
+</tr>
+<tr>
+  <td>2020 - 2021</td>
+  <td>
+  Writing Workshop, Institut für Sozialwissenschaften, Humboldt-Universität zu Berlin
   </td>
 </tr>
 </table>

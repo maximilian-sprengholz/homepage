@@ -115,11 +115,11 @@ Holm, A., Regnault, V., Sprengholz, M., & Stephan, M. (2021). Die Verfestigung s
 
 ### Data
 
-Sprengholz, M.. Salikutluk, Z., Kosyakova, Y., Jaschke, P., Hunkler, C., Auer, D. (forthcoming 2026): Seeing Your Religion Survey. DeZIM.fdz.
+Sprengholz, M.. Salikutluk, Z., Kosyakova, Y., Jaschke, P., Hunkler, C., & Auer, D. (forthcoming 2026): Seeing Your Religion Survey. DeZIM.fdz.
 
 ### Software
 
-Sprengholz, M., Hamjediers M. (2024). [NOPO: Stata module to perform Nopo (2008) matching decompositions](https://ideas.repec.org/c/boc/bocode/s459289.html). Statistical Software Components S459289, Boston College Department of Economics. Ongoing development on GitHub: https://github.com/mhamjediers/nopo_decomposition
+Sprengholz, M., & Hamjediers M. (2024). [NOPO: Stata module to perform Nopo (2008) matching decompositions](https://ideas.repec.org/c/boc/bocode/s459289.html). Statistical Software Components S459289, Boston College Department of Economics. Ongoing development on GitHub: https://github.com/mhamjediers/nopo_decomposition
 
 See also my GitHub page for public code: https://github.com/maximilian-sprengholz
 
@@ -129,31 +129,46 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 <table class="cv">
 <tr>
   <td>2024</td>
-  <td>Spring Meeting <i>The Power Of Where</i>, General Online Research Conference</td>
+  <td>
+  Spring Meeting <i>The Power Of Where</i>, Cottbus<br />
+  GOR, Cologne
+  </td>
 </tr>
 <tr>
   <td>2023</td>
-  <td>Tagung des Netzwerks für empirisch-analytische Sozialforschung zu Muslim:innen (NAFS), DeZIM FG-Wednesday, Stata User Conference, 4th Workshop on Gender and Migration</td>
+  <td>
+  Tagung des Netzwerks für empirisch-analytische Sozialforschung zu Muslim:innen (NAFS), Erlangen<br />
+  DeZIM FG-Wednesday, online<br />
+  4th Workshop on Gender and Migration, Nuremberg</td>
 </tr>
 <tr>
   <td>2022</td>
-  <td>DeZIM-Tagung</td>
+  <td>DeZIM-Tagung, Berlin</td>
 </tr>
 <tr>
   <td>2021</td>
-  <td>ECSR Conference, Fachkonferenz Zuwanderung und Arbeitsmarktintegration, Women on the Move Workshop</td>
+  <td>
+  ECSR, online<br />
+  Fachkonferenz Zuwanderung und Arbeitsmarktintegration, online<br />
+  Women on the Move Workshop, online<br />
+  </td>
 </tr>
 <tr>
   <td>2020</td>
-  <td>DGS Kongress, IAFFE @ ASSA 2020</td>
+  <td>
+  DGS Kongress, online<br />
+  IAFFE @ ASSA, San Diego (USA)
+  </td>
 </tr>
 <tr>
   <td>2019</td>
-  <td>Verein für Socialpolitik Jahrestagung</td>
+  <td>Verein für Socialpolitik Jahrestagung, Leipzig</td>
 </tr>
 <tr>
   <td>2018</td>
-  <td>Gender Economics and the Workplace Conference, Gender Economics Workshop</td>
+  <td>
+  Gender Economics and the Workplace Conference, Erlangen<br />
+  Gender Economics Workshop, Berlin</td>
 </tr>
 </table>
 
@@ -227,13 +242,19 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 <tr>
   <td>2023</td>
   <td>
-  Organization of and participation in the panel discussion <i>Doing Quantitative Intersectional Research</i> with Niels Spierings, Christiane Gross, Zerrin Salikutluk, and Lena Keller (among others), BIM
+  Organization (with Sophie Harms and Simon Ruhnke) of and participation in the panel discussion <i>Doing Quantitative Intersectional Research</i> with Niels Spierings, Christiane Gross, Zerrin Salikutluk, Lena Keller and Sophie Harms at BIM
   </td>
 </tr>
 <tr>
   <td>2023</td>
   <td>
   Advocating for intersectionality as the <i>Next Grand Challenge</i> in the corresponding forum of the Berlin University Alliance, Berlin
+  </td>
+</tr>
+<tr>
+  <td>2022-2023</td>
+  <td>
+  Concept (with Zerrin Salikutluk and Christian Hunkler) und Design of the new <a href="https://edoc.hu-berlin.de/communities/5e928467-e4bf-40a1-863c-a9928212878b">BIM Publication Series</a> (currently available: BIM News, BIM Working Papers)
   </td>
 </tr>
 <tr>
@@ -268,7 +289,7 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 <tr>
   <td>2023</td>
   <td>
-  Workshop <i>Acedemic Editors' Perspective: Writing and Publishing in Peer-Reviews Journals</i>, Humboldt-Universität zu Berlin
+  Workshop <i>Academic Editors' Perspective: Writing and Publishing in Peer-Reviews Journals</i>, Humboldt-Universität zu Berlin
   </td>
 </tr>
 <tr>
@@ -281,6 +302,12 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
   <td>2021</td>
   <td>
   Summer School <i>Visualizing Open Access</i>, Humboldt-Universität zu Berlin
+  </td>
+</tr>
+<tr>
+  <td>2020 - 2021</td>
+  <td>
+  Writing Workshop, Department of Social Sciences, Humboldt-Universität zu Berlin
   </td>
 </tr>
 </table>
