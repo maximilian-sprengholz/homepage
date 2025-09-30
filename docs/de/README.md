@@ -1,7 +1,7 @@
 # Maximilian Sprengholz
 (er/sein)
 
-Ich habe vor Kurzem meinen PhD in Soziologie an der Humboldt-Universität zu Berlin abgeschlossen mit quantitativer Forschung zu intersektionalen Ungleichheiten nach Migration und Geschlecht auf dem deutschen Arbeitsmarkt. Im Moment suche ich nach einem neuen Job als Data Analyst oder im Bereich der Forschungsdateninfrastruktur und Open Science.
+Ich habe vor Kurzem meinen PhD in Soziologie an der Humboldt-Universität zu Berlin abgeschlossen mit quantitativer Forschung zu intersektionalen Ungleichheiten nach Migration und Geschlecht auf dem deutschen Arbeitsmarkt. Im Moment suche ich nach einem neuen Job als Data Analyst oder im Bereich Forschungsdateninfrastruktur und Open Science.
 
 [maximilian.sprengholz@protonmail.com](mailto:maximilian.sprengholz@protonmail.com)<br />
 [https://orcid.org/0000-0003-3829-3665](https://orcid.org/0000-0003-3829-3665)<br />
