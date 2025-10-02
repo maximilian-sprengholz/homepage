@@ -48,7 +48,7 @@ Ueckermünder Str. 1 <br />
   <td>
   PhD in Sociology, Humboldt-Universität zu Berlin<br />
   Thesis: <a href="https://doi.org/10.18452/33642">Intersecting Inequalities: Labor Market Outcomes by Nativity and Gender in Germany</a><br />
-  Supervisor: Johannes Giesecke
+  Committee: Zerrin Salikutluk, Martin Kroh, Johannes Giesecke (supervisor)
   </td>
 </tr>
 <tr>
