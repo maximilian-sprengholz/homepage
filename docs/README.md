@@ -209,25 +209,25 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 <tr>
   <td>2024</td>
   <td>
-  Workshop <i>Räumliche Kontextdaten</i>, DeZIM Institut, <a href="https://github.com/maximilian-sprengholz/contextdata">GitHub</a>
+  Workshop <i>Geographical Context-Data</i>, DeZIM Institut, <a href="https://github.com/maximilian-sprengholz/contextdata">GitHub</a>
   </td>
 </tr>
 <tr>
   <td>2023</td>
   <td>
-  Workshop <i>Reproduzierbarkeit und Kollaboration im Forschungsalltag</i>, Humboldt-Universität zu Berlin, Colloquium Empirische Methoden der Sozialforschung, <a href="https://github.com/maximilian-sprengholz/repro-collab">GitHub</a>
+  Workshop <i>Reproduction and Collaboration in Research</i>, Humboldt-Universität zu Berlin, Colloquium Empirische Methoden der Sozialforschung, <a href="https://github.com/maximilian-sprengholz/repro-collab">GitHub</a>
   </td>
 </tr>
 <tr>
   <td>2021</td>
   <td>
-  Workshop <i>Reproduzierbarkeit und Kollaboration im Forschungsalltag</i>, Humboldt-Universität zu Berlin, Colloquium Empirische Methoden der Sozialforschung
+  Workshop <i>Reproduction and Collaboration in Research</i>, Humboldt-Universität zu Berlin, Colloquium Empirische Methoden der Sozialforschung
   </td>
 </tr>
 <tr>
   <td>2019 - 2020</td>
   <td>
-  Master's course <i>Sozialwissenschaftliche Armutsforschung</i> (2 semesters, 4 hours/week) with Johannes Giesecke, Humboldt-Universität zu Berlin
+  Master's course <i>Social Science Poverty Research</i> (2 semesters, 4 hours/week) with Johannes Giesecke, Humboldt-Universität zu Berlin
   </td>
 </tr>
 </table>
@@ -248,7 +248,7 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 <tr>
   <td>2023</td>
   <td>
-  Advocating for intersectionality as the <i>Next Grand Challenge</i> in the corresponding forum of the Berlin University Alliance, Berlin
+  Advocating for intersectionality (with Zerrin Salikutluk and Maisha Auma) as the <i>Next Grand Challenge</i> in the corresponding forum of the Berlin University Alliance
   </td>
 </tr>
 <tr>

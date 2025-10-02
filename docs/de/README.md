@@ -114,7 +114,7 @@ Holm, A., Regnault, V., Sprengholz, M., & Stephan, M. (2021). Die Verfestigung s
 
 ### Daten
 
-Sprengholz, M.. Salikutluk, Z., Kosyakova, Y., Jaschke, P., Hunkler, C., & Auer, D. (forthcoming 2026): Seeing Your Religion Survey. DeZIM.fdz.
+Sprengholz, M.. Salikutluk, Z., Kosyakova, Y., Jaschke, P., Hunkler, C., & Auer, D. (bevorstehend 2026): Seeing Your Religion Survey. DeZIM.fdz.
 
 ### Software
 
@@ -225,7 +225,7 @@ See also my GitHub page for public code: https://github.com/maximilian-sprenghol
 <tr>
   <td>2019 - 2020</td>
   <td>
-  Master-Seminar <i>Sozialwissenschaftliche Armutsforschung</i> (2 Semesterm, 4 SWS) mit Johannes Giesecke, Humboldt-Universität zu Berlin
+  Master-Seminar <i>Sozialwissenschaftliche Armutsforschung</i> (2 Semester, 4 SWS) mit Johannes Giesecke, Humboldt-Universität zu Berlin
   </td>
 </tr>
 </table>
