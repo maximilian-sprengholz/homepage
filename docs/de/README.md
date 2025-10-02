@@ -69,7 +69,7 @@ Ueckermünder Str. 1 <br />
 <table class="cv">
 <tr>
 <td>Forschung</td>
-<td>Soziale Ungleichheit (insb. in Bezug auf Migration und Geschlecht), Intersektionalität, quantitative Methoden, Migration und Integration, Arbeitsmarkt, Armut, Diskriminierung, Rassismus, Design und Programmierung (experimenteller) Befragungen</td>
+<td>Arbeitsmarkt-Ungleichheit (insb. in Bezug auf Migration und Geschlecht), Intersektionalität, quantitative Methoden, Migration und Integration, Armut, Diskriminierung, Rassismus, Design und Programmierung (experimenteller) Befragungen</td>
 <tr>
 <td>Software</td>
 <td>Stata, R, Python, Git, Markdown, LaTeX, HTML/CSS, JavaScript, Qualtrics, conda, pixi, Microsoft/Libre Office, Adobe Photoshop/InDesign/Illustrator, Sketch, Figma<td>
@@ -83,22 +83,22 @@ Ueckermünder Str. 1 <br />
 
 ### Peer-Reviewed 
 
-Sprengholz, M., & Hamjediers, M. (2024). Intersections and Commonalities: Using Matching to Decompose Wage Gaps by Gender and Nativity in Germany. _Work and Occupations, 51(2), 249–286._ https://doi.org/10/gtsqs9. Replication Materials: https://zenodo.org/record/7670946
+Sprengholz, M., & Hamjediers, M. (2024). Intersections and Commonalities: Using Matching to Decompose Wage Gaps by Gender and Nativity in Germany. _Work and Occupations, 51(2), 249–286._ https://doi.org/10/gtsqs9. Reproduction package: https://zenodo.org/record/7670946
 
 Hamjediers, M., & Sprengholz, M. (2023). Comparing the Incomparable? Issues of Lacking Common Support, Functional-Form Misspecification, and Insufficient Sample Size in Decompositions. _Sociological Methodology, 53(2), 344–365._ https://doi.org/10/gttk22.
-Replication Materials: https://doi.org/10.17605/OSF.IO/Y7D4Q
+Reproduction package: https://doi.org/10.17605/OSF.IO/Y7D4Q
 
-Schieckoff B., & Sprengholz M. (2021): The labor market integration of immigrant women in Europe: context, theory, and evidence. _SN Social Sciences, 1_, 276. https://doi.org/10/gnk8zs. Replication Materials: https://scm.cms.hu-berlin.de/sprenmax/fem-lit-review
+Schieckoff B., & Sprengholz M. (2021): The labor market integration of immigrant women in Europe: context, theory, and evidence. _SN Social Sciences, 1_, 276. https://doi.org/10/gnk8zs. Reproduction package: https://scm.cms.hu-berlin.de/sprenmax/fem-lit-review
 
 Sprengholz, M. (2021). Post-feminist German heartland: On the women’s rights narrative of the radical-right populist party Alternative für Deutschland in the Bundestag. _European Journal of Women’s Studies, 28._ https://doi.org/10/gjtw9t
 
-Sprengholz, M., Diehl, C., Giesecke, J., & Kreyenfeld, M. (2021). From “guest workers” to EU migrants: A gendered view on the labour market integration of different arrival cohorts in Germany. _Journal of Family Research, 33._ https://doi.org/10/ghz7nq. Replication Materials: https://zenodo.org/record/4362483
+Sprengholz, M., Diehl, C., Giesecke, J., & Kreyenfeld, M. (2021). From “guest workers” to EU migrants: A gendered view on the labour market integration of different arrival cohorts in Germany. _Journal of Family Research, 33._ https://doi.org/10/ghz7nq. Reproduction package: https://zenodo.org/record/4362483
 
-Sprengholz, M., Wieber, A., & Holst, E. (2020). Gender identity and wives’ labor market outcomes in West and East Germany between 1983 and 2016. _Socio-Economic Review, mwaa048._ https://doi.org/10/ghc8wq. Replication Materials: https://zenodo.org/record/4058741
+Sprengholz, M., Wieber, A., & Holst, E. (2020). Gender identity and wives’ labor market outcomes in West and East Germany between 1983 and 2016. _Socio-Economic Review, mwaa048._ https://doi.org/10/ghc8wq. Reproduction package: https://zenodo.org/record/4058741
 
 ### Working Papers
 
-Sprengholz, M. (2025). Nativity gaps in income poverty in Germany: Examining the role of gendered work intensity and wage patterns in couple households. OSF. https://doi.org/10.31219/osf.io/ms6jn_v1. Replication Materials: https://osf.io/f6qa5/
+Sprengholz, M. (2025). Nativity gaps in income poverty in Germany: Examining the role of gendered work intensity and wage patterns in couple households. OSF. https://doi.org/10.31219/osf.io/ms6jn_v1. Reproduction package: https://osf.io/f6qa5/
 
 Jaschke, P., Sprengholz, M., Auer, D., Hunkler, C., Kosyakova, Y., & Salikutluk, Z. (2025). Seeing Your Religion: Diskriminierung und Rassismus gegenüber Muslim*innen auf dem deutschen Arbeitsmarkt. BIM News, 8. https://doi.org/10.18452/33069
 
